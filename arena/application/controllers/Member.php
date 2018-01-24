@@ -42,7 +42,7 @@ class Member extends CI_Controller {
 
 					if ($username == $data->username && $password == $data->password) {
 
-						session_start();
+						//session_start();
 						$session_id = session_id();
 						
 						$this->session->set_userdata('admin', $data->id);	

@@ -572,7 +572,8 @@ header {
 
 .affiliates-img {
   display: inline-block;
-  height: auto;
+  height: 50px;
+  width: 100%;
 }
 .affiliates-img > img {
   height: 100%;
@@ -581,10 +582,15 @@ header {
 }
 
 
-
+.top-divider img {
+  height: 26px;
+}
+.service-divider img {
+  height: 28px;
+}
 .affiliates-img2 {
   display: inline-block;
-  height: auto;
+  height: 51px;
   width: 100%;
 }
 .affiliates-img2>img{
