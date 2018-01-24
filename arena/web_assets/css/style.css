@@ -1059,33 +1059,37 @@ header {
   padding: 37px 0;
   text-align: left;
 }
-.contactRight > p {
-  color: #eee;
+
+/*CONTACT ADDRESS STYLE*/
+.ocean-address {
+  color: #dadada;
 }
-.contactRight > .contactFooter {
-  padding: 18px 0;
+.b-bottom{
+  border-bottom: 1px solid #1c3241;
 }
-.contactRight>.contactFooter>div{color: #fff;}
-.contactRight > .contactFooter > div > i {
-  color: #207DBA;
+.ocean-address > h5 {
+  color: #63B17B;
+  display: inline;
+}
+.ocean-address > ul {
+  list-style: outside none none;
+}
+.ocean-address>ul>li{}
+.ocean-address > ul > li > .dp {
+  color: #ffffff;
+  float: left;
+  width: 20%;
+}
+.ocean-address > ul > li > .rp {
+  display: inline-block;
+  width: 80%;
+}
+.ocean-address > ul > li > span {
+  
 }
 
-.contactRight > .contactFooter > .social_contact {
-  padding: 20px 0;
-}
-.contactRight > .contactFooter > .social_contact > a {
-  color: #fff;
-  display: inline-block;
-  font-size: 20px;
-  height: 45px;
-  padding: 9px 0;
-  text-align: center;
-  width: 45px;
-}
-.contactRight > .contactFooter > .social_contact > a:hover {
-  background: #510013; 
-  text-decoration: none;
-}
+
+
 .meetTeacherHeader {
   color: #fff;
   padding: 10px 0;
@@ -1222,6 +1226,10 @@ right: 15px !important;
 .left-sidebar > ul > li > a:hover {
   background: #eee;
 }
+.left-sidebar>ul>.active>a {
+  background: #ddd !important;
+}
+
 
 .sidebar-content{}
 .sidebar-content > h2 {

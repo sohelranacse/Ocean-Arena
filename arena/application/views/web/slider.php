@@ -14,10 +14,10 @@
                     <!-- Indicators -->
                     <ol class="carousel-indicators">
                         <li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
-                        <li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
-                        <li data-target="#carousel-example-generic" data-slide-to="1" class="active"></li>
-                        <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
-                        <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="4" class=""></li>
                     </ol>
 
                     <!-- Wrapper for slides -->

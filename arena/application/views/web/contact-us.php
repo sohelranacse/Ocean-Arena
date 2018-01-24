@@ -8,9 +8,7 @@
 	            <img src="<?php echo base_url(); ?>web_assets/img/divider-2.png" class="img-responsive" alt="Image">
 	        </span>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. <br>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse.
+                Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days. <br> We are open from 24/7 
             </p>
             <span class="span"></span>
             
@@ -57,24 +55,32 @@
 			</div>
 
 			<div class="col-md-5 col-lg-5 col-sm-12 col-xs-12 contactRight">
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				</p>
-				<div class="contactFooter">
-					<div>
-						<i class="icofont icofont-location-pin"></i> Address: Mohanagar Project, Rampura, Dhaka.
-					</div>
-					<div>
-						<i class="icofont icofont-stock-mobile"></i> Mobile number: sales@oceanarenatravels.com 
-					</div>
-					<div>
-						<i class="icofont icofont-email"></i> E-mail: oceanarena@yahoo.com
-					</div>
+				<div class="ocean-address b-bottom">
+					<h5>Malé Office:</h5>
+					<ul>
+						<li><span class="dp">Address: </span><span class="rp">Ma, Daisy Villa (Ground Floor) Anoana Goalhi Male, Republic of Muldives.</span></li>
+						<li><span class="dp">Tel: </span><span class="rp">+960 3337799</span></li>
+						<li><span class="dp">Fax: </span><span class="rp">+960 3338644</span></li>
+						<li><span class="dp">Email: </span><span class="rp">sales@oceanarenatravels.com</span></li>
+						<li><span class="dp">Web: </span><span class="rp">www.oceanarenatravels.com</span></li>
+					</ul>
+				</div>
+				<div class="ocean-address b-bottom">
+					<h5>Dhaka Office:</h5>
+					<ul>
+						<li><span class="dp">Address: </span><span class="rp">146/C West Rampura, Dhaka, Bangladesh.</span></li>
+						<li><span class="dp">Phone: </span><span class="rp">+88 01758 521764</span></li>
+						<li><span class="dp">Phone: </span><span class="rp">+88 01865 685555</span></li>
+						<li><span class="dp">Email: </span><span class="rp">sahid@oceanarenatravels.com</span></li>
+					</ul>
+				</div>
+				<div class="ocean-address">
+					<h5>Sri Lanka Office:</h5>
+					<ul>
+						<li><span class="dp">Address: </span><span class="rp">54, Walukarama Road, Colombo-3, Sri Lanka.</span></li>
+						<li><span class="dp">Tel: </span><span class="rp">+9411 5484848</span></li>
+						<li><span class="dp">Email: </span><span class="rp">info@oceanarenatravels.com</span></li>
+					</ul>
 				</div>
 			</div>
 		</div>
