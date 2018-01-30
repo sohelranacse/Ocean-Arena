@@ -11,6 +11,9 @@ if (isset($id)) {
 			<div class="promotions-offers-header">
 				<h2><?php echo $data['resort_name']; ?></h2>
 				<p><?php echo $data['offer_title']; ?></p>
+				<a onclick="goBack()" class="go-back wow fadeIn" data-wow-delay="300ms">
+		            <img src="<?php echo base_url(); ?>web_assets/img/icons/go-back-arrow.png" class="img-responsive" alt="Go back"> <strong>Go Back</strong>
+		        </a>
 			</div>
 			<div class="promotions-offers-image">
 				<img src="<?php echo base_url();?>web_assets/img/promotions/<?php echo $data['userfile']; ?>">
@@ -59,4 +62,9 @@ if (isset($id)) {
 		</div>
 	</div>
 </section>
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
 <?php }}} ?>

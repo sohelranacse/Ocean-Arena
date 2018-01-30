@@ -95,31 +95,6 @@
                   </textarea>
                 </div>
               </div>
-              <div class="control-group">
-                <label class="control-label">Feature 1:</label>
-                <div class="controls">
-                  <input class="span8" name="feature1" type="text">
-                </div>
-              </div>
-              <div class="control-group">
-                <label class="control-label">Feature 2:</label>
-                <div class="controls">
-                  <input class="span8" name="feature2" type="text">
-                </div>
-              </div>
-              <div class="control-group">
-                <label class="control-label">Feature 3:</label>
-                <div class="controls">
-                  <input class="span8" name="feature3" type="text">
-                </div>
-              </div>
-              <div class="control-group">
-                <label class="control-label">Feature 4:</label>
-                <div class="controls">
-                  <input class="span8" name="feature4" type="text">
-                </div>
-              </div>
-
 
               <div class="form-actions text-center">
                 <button type="submit" class="btn btn-success">Add Accommodation</button>
@@ -146,11 +121,7 @@
                   <th>Image</th>
                   <th>Title</th>
                   <th>Description</th>
-                  <th>Feature 1</th>
-                  <th>Feature 2</th>
-                  <th>Feature 3</th>
-                  <th>Feature 4</th>
-                  <th>Action</th>
+                  <th>Delete</th>
                 </tr>
               </thead>
               <tbody>
@@ -164,11 +135,7 @@
                   <td><?php echo $rooms_data['id']; ?></td>
                   <td><img src="<?php echo base_url(); ?>web_assets/img/rooms/<?php echo $rooms_data['userfile']; ?>" style="height: 59px"></td>
                   <td><?php echo $rooms_data['title']; ?></td>
-                  <td><?php echo substr($rooms_data['description'], 0, 10); ?></td>
-                  <td><?php echo $rooms_data['feature1']; ?></td>
-                  <td><?php echo $rooms_data['feature2']; ?></td>
-                  <td><?php echo $rooms_data['feature3']; ?></td>
-                  <td><?php echo $rooms_data['feature4']; ?></td>
+                  <td><?php echo substr($rooms_data['description'], 0, 100); ?></td>
                   <td>
                     <button type="button" value="<?php echo $rooms_data['id'] ?>" onclick="delete_rooms(this)" class="btn btn-danger btn-mini" data-original-title="Delete">
                       <i class="icon-remove"></i>

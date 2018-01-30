@@ -21,7 +21,7 @@
           //$i = 1;
           foreach ($query->result_array() as $data) {
         ?>
-		<div class="col-md-3 col-sm-3">
+		<div class="col-md-3 col-sm-4">
 			<div class="hotel-srilanks pack2">
 
 				<div class="img-p"><img src="<?php echo base_url(); ?>web_assets/img/packages/<?php echo $data['userfile']; ?>" class="img-responsive" alt="hotel"></div>

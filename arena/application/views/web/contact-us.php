@@ -58,7 +58,7 @@
 				<div class="ocean-address b-bottom">
 					<h5>Malé Office:</h5>
 					<ul>
-						<li><span class="dp">Address: </span><span class="rp">Ma, Daisy Villa (Ground Floor) Anoana Goalhi Male, Republic of Muldives.</span></li>
+						<li><span class="dp">Address: </span><span class="rp">Ma, Daisy Villa (Ground Floor) Anoana Goalhi Male, Republic of Maldives.</span></li>
 						<li><span class="dp">Tel: </span><span class="rp">+960 3337799</span></li>
 						<li><span class="dp">Fax: </span><span class="rp">+960 3338644</span></li>
 						<li><span class="dp">Email: </span><span class="rp">sales@oceanarenatravels.com</span></li>
@@ -71,7 +71,7 @@
 						<li><span class="dp">Address: </span><span class="rp">146/C West Rampura, Dhaka, Bangladesh.</span></li>
 						<li><span class="dp">Phone: </span><span class="rp">+88 01758 521764</span></li>
 						<li><span class="dp">Phone: </span><span class="rp">+88 01865 685555</span></li>
-						<li><span class="dp">Email: </span><span class="rp">sahid@oceanarenatravels.com</span></li>
+						<li><span class="dp">Email: </span><span class="rp">jahid@oceanarenatravels.com</span></li>
 					</ul>
 				</div>
 				<div class="ocean-address">
@@ -79,7 +79,7 @@
 					<ul>
 						<li><span class="dp">Address: </span><span class="rp">54, Walukarama Road, Colombo-3, Sri Lanka.</span></li>
 						<li><span class="dp">Tel: </span><span class="rp">+9411 5484848</span></li>
-						<li><span class="dp">Email: </span><span class="rp">info@oceanarenatravels.com</span></li>
+						<li><span class="dp">Email: </span><span class="rp">sales@oceanarenatravels.com</span></li>
 					</ul>
 				</div>
 			</div>

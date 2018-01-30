@@ -22,7 +22,7 @@
         if ($query->num_rows()>0) {
           foreach ($query->result_array() as $data) {
         ?>
-		<div class="col-md-3 col-sm-3">
+		<div class="col-md-3 col-sm-4">
 			<div class="hotel-srilanks">
 
 				<div class="img-p"><img src="<?php echo base_url(); ?>web_assets/img/hotels/<?php echo $data['userfile']; ?>" class="img-responsive" alt="hotel"></div>

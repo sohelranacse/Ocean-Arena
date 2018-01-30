@@ -21,45 +21,45 @@
 
 
                             <div class="row services wow fadeIn" data-wow-delay="300ms">
-                                <div class="col-md-8 col-sm-7 col-xs-7 padding0 ser1">
+                                <div class="col-md-8 col-sm-6 col-xs-7 padding0 ser1">
                                     <div class="service-icon">
                                         <img src="<?php echo base_url(); ?>web_assets/img/icons/icons8-traveler-filled-100.png" class="img-responsive" alt="icon">
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-5 col-xs-5 padding0 ser2">
+                                <div class="col-md-4 col-sm-6 col-xs-5 padding0 ser2">
                                     <div class="service-text">CORPORATE <br> TRAVEL</div>
                                 </div>
                             </div>
 
                             <div class="row services wow fadeIn" data-wow-delay="200ms">
-                                <div class="col-md-8 col-sm-7 col-xs-7 padding0 ser1">
+                                <div class="col-md-8 col-sm-6 col-xs-7 padding0 ser1">
                                     <div class="service-icon">
                                         <img src="<?php echo base_url(); ?>web_assets/img/icons/icons8-family-filled-100.png" class="img-responsive" alt="icon">
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-5 col-xs-5 padding0 ser2">
+                                <div class="col-md-4 col-sm-6 col-xs-5 padding0 ser2">
                                     <div class="service-text">GROUP <br> TRAVEL</div>
                                 </div>
                             </div>
 
                             <div class="row services wow fadeIn" data-wow-delay="100ms">
-                                <div class="col-md-8 col-sm-7 col-xs-7 padding0 ser1">
+                                <div class="col-md-8 col-sm-6 col-xs-7 padding0 ser1">
                                     <div class="service-icon">
                                         <img src="<?php echo base_url(); ?>web_assets/img/icons/icons8-beach-100.png" class="img-responsive" alt="icon">
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-5 col-xs-5 padding0 ser2">
+                                <div class="col-md-4 col-sm-6 col-xs-5 padding0 ser2">
                                     <div class="service-text">LEISURE <br> TRAVEL</div>
                                 </div>
                             </div>
 
                             <div class="row services wow fadeIn" data-wow-delay="400ms">
-                                <div class="col-md-8 col-sm-7 col-xs-7 padding0 ser1">
+                                <div class="col-md-8 col-sm-6 col-xs-7 padding0 ser1">
                                     <div class="service-icon">
                                         <img src="<?php echo base_url(); ?>web_assets/img/icons/icons8-romance-100.png" class="img-responsive" alt="icon">
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-5 col-xs-5 padding0 ser2">
+                                <div class="col-md-4 col-sm-6 col-xs-5 padding0 ser2">
                                     <div class="service-text">HONEYMOON <br> TRAVEL</div>
                                 </div>
                             </div>
@@ -103,7 +103,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/atmosphere.jpg" alt="Brand">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/adaaran-logo.png" alt="Brand">
                                 </div>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/Conrad.jpg" alt="Brand">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ThemeResortsSpa.jpg" alt="Brand">
                                 </div>
                             </div>
                         </div>
@@ -126,7 +126,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ParkHyatt.jpg" alt="Brand">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ThemeResortsSpa.jpg" alt="Brand">
                                 </div>
                             </div>
                         </div>
@@ -134,7 +134,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/Constance.jpg" alt="Brand">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ThemeResortsSpa.jpg" alt="Brand">
                                 </div>
                             </div>
                         </div>

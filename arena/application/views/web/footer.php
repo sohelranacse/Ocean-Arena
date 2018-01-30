@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-md-offset-1 col-md-6 col-sm-6">
+                    <div class="col-md-offset-1 col-md-6 col-sm-8">
                         <div class="col-md-6 col-sm-6 col-xs-12">
                             <div class="ocean-grid1 wow fadeIn" data-wow-delay="200ms">
                                 <img src="<?php echo base_url(); ?>web_assets/img/logo.png" class="img-responsive" alt="logo">
@@ -34,7 +34,7 @@
                     </div>
 
                     <div class="col-md-4 col-sm-4 col-xs-12">
-                        <div class="ocean-grid2 wow fadeIn" data-wow-delay="300ms">
+                        <div class="ocean-grid2 for-xs wow fadeIn" data-wow-delay="300ms">
 
                             <ul>
                                 <li class="head-site text-center" style="padding-right: 38px">Our Affiliates</li>
@@ -68,7 +68,7 @@
                         <div class="col-md-6 col-sm-6 padding0">
                             <span>MADE WITH &#10084; BY <a href="https://thirdhandbd.com" class="footer_anchor" target="_blank">THIRDHAND BANGLADESH</a></span>
                         </div>
-                        <div class="col-md-6 col-sm-6 text-right">
+                        <div class="col-md-6 col-sm-6 for-xs-l text-right">
                             <span>COPYRIGHT &copy; <a href="http://oceanarenatravels.com/" class="footer_anchor" target="_blank">OCEAN ARENA TRAVELS</a></span>
                         </div>
                     </div>

@@ -460,10 +460,6 @@ class Admin extends CI_Controller {
 
         $title = $this->input->post('title');
         $description = $this->input->post('description');
-        $feature1 = $this->input->post('feature1');
-        $feature2 = $this->input->post('feature2');
-        $feature3 = $this->input->post('feature3');
-        $feature4 = $this->input->post('feature4');
 
 
         if ($this->form_validation->run()==false) {
@@ -473,11 +469,7 @@ class Admin extends CI_Controller {
             $insert=array(
                 'details_id' => $details_id,
                 'title' => $title,
-                'description' => $description,
-                'feature1' => $feature1,
-                'feature2' => $feature2,
-                'feature3' => $feature3,
-                'feature4' => $feature4
+                'description' => $description
             );
             $this->db->insert('rooms',$insert);
             

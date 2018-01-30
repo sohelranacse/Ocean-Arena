@@ -62,7 +62,7 @@ function goBack() {
 			                if ($query->num_rows()>0) {
 			                  foreach ($query->result_array() as $rooms_data) {
 			                ?>
-							<div class="row">
+							<div class="row" style="padding: 10px 15px">
 								<div class="col-md-4 col-sm-4">
 									<div class="maldives_about_visa_img_details">
 										<img src="<?php echo base_url(); ?>web_assets/img/rooms/<?php echo $rooms_data['userfile']; ?>" alt="accommodation image">
@@ -73,14 +73,6 @@ function goBack() {
 									<p>
 										<?php echo $rooms_data['description']; ?>
 									</p>
-									<ul class="de-se-ul">
-										<li>
-											<span><?php echo $rooms_data['feature1']; ?></span>
-											<span><?php echo $rooms_data['feature2']; ?></span>
-											<span><?php echo $rooms_data['feature3']; ?></span>
-											<span><?php echo $rooms_data['feature4']; ?></span>
-										</li>
-									</ul>
 								</div>
 							</div>
 							<?php }} ?>

@@ -121,102 +121,6 @@ header {
 }
 
 
-/*
-
-.submenu {
-  display: block;
-  overflow: hidden;
-  float: right;
-}
-.submenu > ul {
-  display: inline-block;
-  margin: 0;
-}
-.submenu>ul > li {
-  float: left;
-  list-style: outside none none;
-}
-.submenu > ul > li > a {
-  color: #fff;
-  display: block;
-  font-size: 10px;
-  letter-spacing: 1px;
-  outline: 0 none;
-  padding: 8px 10px 0;
-  text-decoration: none;
-  transition: all 0.5s ease 0s;
-}
-.submenu>ul>li>a:hover{
-  color: #ddd;
-}
-
-
-.nav.navbar-nav.navbar-right.mynav-list {
-  margin-top: 7px;
-}
-.navbar-default {
-  background-color: #6a172c;
-  border: medium none;
-  border-radius: 0;
-  height: 74px;
-  margin: 0;
-  z-index: 9999;
-}
-.navbar-header {
-  float: none;
-}
-.navbar-brand {
-  display: block;
-  font-size: 18px;
-  height: 100px;
-  margin-top: -28px;
-  padding: 0;
-}
-.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
-  margin-left: 0;
-}
-.navbar-logo >img {
-  height: 100%;
-  max-width: 100%;
-  width: auto;
-}
-
-.navbar-default .navbar-nav > li > a {
-  color: #fff;
-}
-.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
-  background-color: #6a172c;
-  color: #fff;
-}
-
-
-
-.mynav-list > ul > li > a {
-  display: block;
-  font-weight: bold;
-  height: 40px;
-  margin: 0;
-  outline: 0 none;
-}
-.navbar-nav > li > a {
-  line-height: 10px;
-}
-
-.active-menu {
-  background: #fff none repeat scroll 0 0;
-  color: #6a172c !important;
-}
-.active-menu:hover {
-  background: #fff  !important;
-  color: #6A172C;
-}
-
-.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
-  background-color: #fff;
-  color: #6a172c;
-}
-
-*/
 
 
 
@@ -454,18 +358,17 @@ header {
   vertical-align: top;
   width: auto;
 }
-#partner{}
-.partners{}
 .partners > .partnersImg {
+  border: 1px solid #eeeeee;
+  display: flex;
   height: 100px;
+  justify-content: center;
+  margin: 0 5px;
+  overflow: hidden;
 }
 .partners > .partnersImg > img {
-  background: #eeeeee none repeat scroll 0 0;
-  border: 1px solid #eeeeee;
   height: 100%;
-  margin: auto;
   max-width: 100%;
-  padding: 5px 30px;
   width: auto;
 }
 .left-array > img {
@@ -708,7 +611,9 @@ header {
 .carousel-control.right, .carousel-control.left {
   background-image: none;
 }
-
+.item.mitem > img {
+  min-width: 100%;
+}
 
 .icon-style {
   display: inline-block;
@@ -882,7 +787,7 @@ header {
   font-family: nunito sans;
   font-size: 11px;
   font-weight: bold;
-  margin: 14px 0 11px;
+  margin: 10px 20px 10px;
   text-align: center;
   transition: all 0.1s ease 0s;
 }
@@ -891,7 +796,7 @@ header {
   font-family: nunito sans;
   font-size: 13px;
   font-weight: bold;
-  margin: 62px 0 14px;
+  margin: 40px 20px 10px;
   padding: 0 10px;
   text-align: center;
 }
@@ -1079,8 +984,11 @@ header {
 }
 .ocean-address > ul {
   list-style: outside none none;
+  margin-bottom: 20px;
 }
-.ocean-address>ul>li{}
+.ocean-address > ul > li {
+  line-height: 20px;
+}
 .ocean-address > ul > li > .dp {
   color: #ffffff;
   float: left;
@@ -1278,15 +1186,16 @@ right: 15px !important;
 
 /*for accommodation images*/
 .maldives_about_visa_img_details {
-  height: auto;
-  margin: 10px 0 20px;
-  width: 100%;
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  margin: 15px 0;
+  overflow: hidden;
 }
 .maldives_about_visa_img_details > img {
   border-radius: 4px;
-  max-width: 100%;
+  max-width: 1000%;
 }
-
 .sidebar-content-content{}
 .sidebar-content-content > p {
   text-align: justify;
@@ -1386,7 +1295,7 @@ right: 15px !important;
   color: #000000;
   font-size: 11px;
   outline: 0 none;
-  padding: 10px 20px;
+  padding: 5px 20px;
   transition: all 0.3s ease 0s;
 }
 .pack2 .part-2 > a:hover{
@@ -1408,13 +1317,14 @@ right: 15px !important;
 .pack2 > .h4_ti {
   color: #333333;
   font-size: 13px;
+  margin: 0;
   padding: 0 30px;
   position: absolute;
   top: 75%;
   width: 100%;
 }
 .pack2 .h4_ti2 {
-  margin: 40px 0 14px;
+  margin: 30px 0 15px;
   padding: 0 40px;
 }
 #message_send > p {
