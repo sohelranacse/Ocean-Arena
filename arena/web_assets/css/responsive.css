@@ -7,11 +7,11 @@ smaller than 980 /768 to 1040/
 	  text-align: left;
 	}
 	#partner .owl-controls .owl-buttons [class*="owl-prev"] {
-	  left: -20px;
-	}
+    left: -15px;
+  }
 	#partner .owl-controls .owl-buttons [class*="owl-next"] {
-	  right: -20px;
-	}
+    right: -15px;
+  }
 	.services .service-text {
 	  font-size: 13px;
 	}

@@ -32,7 +32,7 @@
 				    <div class="row sidebar-content-body">
 				    	<div class="col-md-6 sidebar-content-content">
 				    		<div class="maldives_about_visa_img  wow fadeIn" data-wow-delay="200ms">
-								<img src="<?php echo base_url(); ?>web_assets/img/about/about-maldives.jpg" alt="maldives visa image">
+								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives/about.jpg" alt="maldives about image">
 				    		</div>
 				    	</div>
 				    	<div class="col-md-6 sidebar-content-content wow fadeIn" data-wow-delay="400ms">
@@ -57,7 +57,7 @@
 				    <div class="row sidebar-content-body">
 				    	<div class="col-md-6 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
-								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives-history.jpg" alt="maldives visa image">
+								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives/History.jpg" alt="maldives history image">
 				    		</div>
 				    	</div>
 				    	<div class="col-md-6 sidebar-content-content">
@@ -68,9 +68,9 @@
 				       		</p>
 				       		<p>
 								It is believed that the most important factor that contributed to the first ever settlement of people in the Maldives is its geographical location. Large ruins and other archaeological remains found in the islands including those bordering the equatorial channel and the One and a Half Degree channel bear testimony to the fact that people of antiquity had indeed stumbled upon the country during their travels. It is believed that permanent settlements were established in around 500 BC by Aryan immigrants from the Indian subcontinent. Many customs,
-				    	</div>
-				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -23px">
 							</p>
+				    	</div>
+				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -10px">
 							<p>
 								traditional practices and superstitious beliefs that still prevail in the country also attest to the influence of the early Dravidian culture of the Maldives. Although it is most probable that early Maldivians were Buddhist or Hindus migrating from the Indian subcontinent, the archaeologist Thor Heyerdahl, who carried out extensive archaeological research in the Maldives and has contributed significantly to theories of the origins of the country, stated that some of the figures unearthed from the ancient mounds bore a striking resemblance to the figures he had investigated on Easter island in the Pacific Ocean. Many of these theories, however, are still a matter of controversy and the Maldives still holds many more secrets about its past which are yet to be unearthed.
 							</p>
@@ -95,7 +95,7 @@
 				    <div class="row sidebar-content-body">
 				    	<div class="col-md-6 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
-								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives-culture.jpg" alt="maldives visa image">
+								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives/culture.jpg" alt="maldives culture image">
 				    		</div>
 				    		<p>
 				    			
@@ -127,7 +127,7 @@
 				    <div class="row sidebar-content-body">
 				    	<div class="col-md-6 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
-								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives-tourist1.jpg" alt="maldives visa image">
+								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives/tourism.jpg" alt="maldives tourism image">
 				    		</div>
 				    	</div>
 				    	<div class="col-md-6 sidebar-content-content">
@@ -157,7 +157,7 @@
 				    <div class="row sidebar-content-body">
 				    	<div class="col-md-6 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
-								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives-key-points.jpg" alt="maldives visa image">
+								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives/key-points.jpg" alt="maldives key points image">
 				    		</div>
 				    	</div>
 				    	<div class="col-md-6 sidebar-content-content">

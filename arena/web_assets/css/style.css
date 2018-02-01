@@ -359,12 +359,13 @@ header {
   width: auto;
 }
 .partners > .partnersImg {
-  border: 1px solid #eeeeee;
+  border: 1px solid #dddddd;
   display: flex;
   height: 100px;
   justify-content: center;
   margin: 0 5px;
   overflow: hidden;
+  padding: 5px;
 }
 .partners > .partnersImg > img {
   height: 100%;

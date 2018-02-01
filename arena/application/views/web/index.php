@@ -103,22 +103,14 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/adaaran-logo.png" alt="Brand">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/adaaran.png" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ThemeResortsSpa.jpg" alt="Brand">
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="partners">
-                                <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ThemeResortsSpa.jpg" alt="Brand">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/amari.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -126,7 +118,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ThemeResortsSpa.jpg" alt="Brand">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/anantara.gif" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -134,7 +126,285 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ThemeResortsSpa.jpg" alt="Brand">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/anantara-dhigu-resort.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ayada.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/banyan-tree.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/cenntara.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/cheval-blance.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/cinnemon.gif" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/coco.gif" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/conrad-logo.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/Dusit-Thani-logo-cma.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/entara.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/Four-Seasons.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/hilton.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/holiday-inn.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/huvafen-shushi1.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/jumeirah.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/kandima.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/lily-beach.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/maldives-retreat.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/manafaru.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/movenpick-logo.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/niyama.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/one-and-only.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/outrigger.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ozo-logo.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/six-senses.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/stregis.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/taj.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/taj-logo.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/the-kingsbury.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/the-residence.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/the-sun-siyam.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/univarsal.png" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/villa-hotels.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/villingili.jpg" alt="Brand logo">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="partners">
+                                <div class="partnersImg">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/vivanta.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>

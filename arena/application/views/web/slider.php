@@ -18,6 +18,7 @@
                         <li data-target="#carousel-example-generic" data-slide-to="2" class="active"></li>
                         <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
                         <li data-target="#carousel-example-generic" data-slide-to="4" class=""></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="5" class=""></li>
                     </ol>
 
                     <!-- Wrapper for slides -->
@@ -32,10 +33,13 @@
                             <img src="<?php echo base_url(); ?>web_assets/img/slider/02-mirihi-beachs-dining.jpg">
                         </div>
                         <div class="item mitem">
-                            <img src="<?php echo base_url(); ?>web_assets/img/slider/03-maldive-beach.jpg">
+                            <img src="<?php echo base_url(); ?>web_assets/img/slider/01-maldive-aerial.jpg">
                         </div>
                         <div class="item mitem">
-                            <img src="<?php echo base_url(); ?>web_assets/img/slider/03-maldive-beach.jpg">
+                            <img src="<?php echo base_url(); ?>web_assets/img/slider/02-mirihi-beachs-dining.jpg">
+                        </div>
+                        <div class="item mitem">
+                            <img src="<?php echo base_url(); ?>web_assets/img/slider/01-maldive-aerial.jpg">
                         </div>
                     </div>
                     <!-- Left and right controls -->

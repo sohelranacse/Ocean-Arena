@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   $("#partner").owlCarousel({
-    autoPlay: 3000,
+    autoPlay: 700,
     items : 4,
     itemsDesktop : [1199,4],
     itemsDesktopSmall : [979,4],

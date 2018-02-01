@@ -69,7 +69,7 @@
                             <span>MADE WITH &#10084; BY <a href="https://thirdhandbd.com" class="footer_anchor" target="_blank">THIRDHAND BANGLADESH</a></span>
                         </div>
                         <div class="col-md-6 col-sm-6 for-xs-l text-right">
-                            <span>COPYRIGHT &copy; <a href="http://oceanarenatravels.com/" class="footer_anchor" target="_blank">OCEAN ARENA TRAVELS</a></span>
+                            <span>COPYRIGHT &copy; <?php echo date("Y"); ?> <a href="http://oceanarenatravels.com/" class="footer_anchor" target="_blank">OCEAN ARENA TRAVELS</a></span>
                         </div>
                     </div>
                 </div>
