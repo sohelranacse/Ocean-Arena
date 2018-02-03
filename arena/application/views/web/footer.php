@@ -53,7 +53,7 @@
                             </div>
 
                             <div class="hot-line">
-                                <p><img src="<?php echo base_url(); ?>web_assets/img/icons/hot-line.png" class="img-responsive" alt="hot-line"><span>Hotline: </span> +960 7700187</p>
+                                <p><img src="<?php echo base_url(); ?>web_assets/img/icons/hot-line.png" class="img-responsive" alt="hot-line"><span>HOTLINE: </span> +960 7700187</p>
                             </div>
                             
                         </div>
@@ -69,7 +69,7 @@
                             <span>MADE WITH &#10084; BY <a href="https://thirdhandbd.com" class="footer_anchor" target="_blank">THIRDHAND BANGLADESH</a></span>
                         </div>
                         <div class="col-md-6 col-sm-6 for-xs-l text-right">
-                            <span>COPYRIGHT &copy; <?php echo date("Y"); ?> <a href="http://oceanarenatravels.com/" class="footer_anchor" target="_blank">OCEAN ARENA TRAVELS</a></span>
+                            <span>COPYRIGHT <?php echo date("Y"); ?> <a href="http://oceanarenatravels.com/" class="footer_anchor" target="_blank">OCEAN ARENA TRAVELS</a></span>
                         </div>
                     </div>
                 </div>

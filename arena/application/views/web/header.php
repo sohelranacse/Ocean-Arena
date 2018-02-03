@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title><?php echo $title; ?> │ Travel to Maldives and Sri lanka</title>
+        <title><?php echo $title; ?> │ Travel to Maldives And Sri Lanka</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="<?php echo base_url(); ?>web_assets/site.webmanifest">

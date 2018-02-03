@@ -170,13 +170,14 @@ header {
 }
 .header-about {
   color: #002635;
-  padding: 70px 0 10px;
+  padding: 80px 0 30px;
 }
 .header-about p {
   font-family: "Great Vibes",cursive;
-  font-size: 24px;
+  font-size: 26px;
   margin-bottom: 35px;
   margin-top: 5px;
+  line-height: 115%;
 }
 .top-divider {
   display: inline-block;
@@ -415,13 +416,14 @@ header {
   width: auto;
 }
 .ocean-grid1 > a {
+  letter-spacing: 0.0625em;
   background: #843146 none repeat scroll 0 0;
   border-radius: 4px;
-  color: #20b3ef;
+  color: #CEA07E;
   display: inline-block;
   font-size: 12px;
   font-weight: bold;
-  margin: 15px 0 15px 20px;
+  margin: 15px 0 15px 18px;
   outline: 0 none;
   padding: 8px 30px;
   position: relative;
@@ -606,7 +608,6 @@ header {
 }
 .carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
   display: block;
-  height: 100%;
   max-width: 100%;
 }
 .carousel-control.right, .carousel-control.left {
@@ -1365,14 +1366,15 @@ right: 15px !important;
 .hot-line > p {
   background: #732035 none repeat scroll 0 0;
   border-radius: 4px;
-  color: #fc8520;
+  color: #D2FF28;
   display: inline;
   font-family: nunito sans;
-  font-size: 14px;
+   letter-spacing: 0.0625em;
+  font-size: 12px;
   padding: 5px 15px;
 }
 .hot-line span {
-  color: #20B3EF;
+  color: #fc8520;
 }
 .hot-line .img-responsive {
   display: inline;
