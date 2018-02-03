@@ -505,11 +505,12 @@ header {
   width: auto;
 }
 .made-thirdhandbd {
-  color: #5e5e5e;
+  background-color: #450717;
+  padding: 5px 0;
+  font-weight: 600;
+  color: #a44860;
   font-family: nunito sans;
   font-size: 12px;
-  font-weight: 700;
-  margin: 20px 0 0;
   text-align: left;
   text-transform: lowercase;
 }
@@ -518,15 +519,18 @@ header {
   text-shadow: 1px 1px 6px #6a172c, 0 0 0px #000, 0 0 33px #000;
 }
 .footer_anchor {
-  color: #5e5e5e;
+  font-weight: 900;
+  color: #a44860;
+  opacity: 0.6;
   display: inline-block;
   outline: 0 none;
   text-decoration: none;
   transition: all 0.5s ease 0s;
 }
 .footer_anchor:hover{
-  text-decoration: none;
   color: #a44860;
+  opacity: 1;
+  text-decoration: none;
   outline: 0 none;
 }
 .made-thirdhandbd span {

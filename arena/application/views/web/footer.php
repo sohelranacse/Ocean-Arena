@@ -61,21 +61,21 @@
 
                 </div>
             </div>
+        </footer>
 
-            <div class="made-thirdhandbd">
-                <div class="container">
-                    <div class="col-md-offset-1 col-md-10 padding0">
-                        <div class="col-md-6 col-sm-6 padding0">
-                            <span>MADE WITH &#10084; BY <a href="https://thirdhandbd.com" class="footer_anchor" target="_blank">THIRDHAND BANGLADESH</a></span>
-                        </div>
-                        <div class="col-md-6 col-sm-6 for-xs-l text-right">
-                            <span>COPYRIGHT <?php echo date("Y"); ?> <a href="http://oceanarenatravels.com/" class="footer_anchor" target="_blank">OCEAN ARENA TRAVELS</a></span>
-                        </div>
+        <div class="made-thirdhandbd hidden-sm hidden-xs">
+            <div class="container">
+                <div class="col-md-offset-1 col-md-10 padding0">
+                    <div class="col-md-6 col-sm-6 padding0">
+                        <span>MADE WITH &#10084; BY <a href="https://thirdhandbd.com" class="footer_anchor" target="_blank">THIRDHAND BANGLADESH</a></span>
+                    </div>
+                    <div class="col-md-6 col-sm-6 for-xs-l text-right">
+                        <span>COPYRIGHT <?php echo date("Y"); ?> <a href="http://oceanarenatravels.com/" class="footer_anchor" target="_blank">OCEAN ARENA TRAVELS</a></span>
                     </div>
                 </div>
-                
             </div>
-        </footer>
+            
+        </div>
         <!-- ARENA FOOTER AREA END  -->
 
         <!-- // FOOTER SCRIPT // -->
