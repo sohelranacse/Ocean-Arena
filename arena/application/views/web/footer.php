@@ -21,11 +21,11 @@
                             <div class="ocean-grid2 wow fadeIn" data-wow-delay="500ms">
                                 <ul>
                                     <li><a href="<?php echo base_url(); ?>home/maldives_about">ABOUT MALDIVES</a></li>
-                                    <li><a href="<?php echo base_url(); ?>home/maldives_resorts">RESORTS MALDIVES</a></li>
-                                    <li><a href="<?php echo base_url(); ?>home/maldives_hotel">HOTEL MALDIVES</a></li>
+                                    <li><a href="<?php echo base_url(); ?>home/maldives_resorts">MALDIVES RESORTS</a></li>
+                                    <li><a href="<?php echo base_url(); ?>home/maldives_hotel">MALDIVES HOTELS</a></li>
                                     <li><a href="<?php echo base_url(); ?>home/srilanka_about">ABOUT SRI LANKA</a></li>
-                                    <li><a href="<?php echo base_url(); ?>home/hotel_srilanka">HOTEL SRI LANKA</a></li>
-                                    <li><a href="<?php echo base_url(); ?>home/srilanka_packages">PACKAGES SRI LANKA</a></li>
+                                    <li><a href="<?php echo base_url(); ?>home/hotel_srilanka">SRI LANKA HOTELS</a></li>
+                                    <li><a href="<?php echo base_url(); ?>home/srilanka_packages">SRI LANKA PACKAGES</a></li>
                                     <li><a href="<?php echo base_url(); ?>home/about">ABOUT US</a></li>
                                 </ul>
                             </div>

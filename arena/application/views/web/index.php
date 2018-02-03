@@ -103,7 +103,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/adaaran.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/adaaran.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/anantara.gif" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/anantara-dhigu.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -126,7 +126,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/anantara-dhigu-resort.jpg" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/anantara-villas.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -142,7 +142,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/banyan-tree.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/banyan-tree.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -150,7 +150,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/cenntara.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/centara.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -158,7 +158,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/cheval-blance.jpg" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/cheval-blanc.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -166,14 +166,14 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/cinnemon.gif" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/cinnamon.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/coco.gif" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/coco.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -189,7 +189,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/Dusit-Thani-logo-cma.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/dusit-thani.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -197,7 +197,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/entara.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/four-seasons.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -205,15 +205,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/Four-Seasons.jpg" alt="Brand logo">
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="partners">
-                                <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/hilton.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/hilton-colombo.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -226,22 +218,18 @@
                             </div>
                         </div>
 
-
-
-
-
-
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/huvafen-shushi1.jpg" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/huvafen-fushi.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
+
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/jumeirah.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/jumeirah.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -281,7 +269,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/movenpick-logo.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/movenpick-logo.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -289,7 +277,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/niyama.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/niyama.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -304,7 +292,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/outrigger.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/outrigger.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -312,7 +300,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ozo-logo.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/ozo-logo.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -336,15 +324,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/taj.png" alt="Brand logo">
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="partners">
-                                <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/taj-logo.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/taj.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -357,14 +337,10 @@
                             </div>
                         </div>
 
-
-
-
-
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/the-residence.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/the-residence.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>
@@ -380,7 +356,7 @@
                         <div class="item">
                             <div class="partners">
                                 <div class="partnersImg">
-                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/univarsal.png" alt="Brand logo">
+                                    <img class="img img-responsive" src="<?php echo base_url(); ?>web_assets/img/brand/universal.jpg" alt="Brand logo">
                                 </div>
                             </div>
                         </div>

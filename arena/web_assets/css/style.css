@@ -164,7 +164,7 @@ header {
 
 
 .header-about-section {
-  box-shadow: 0 5px 20px -3px #000000;
+  box-shadow: 0 0px 125px -30px #000000;
   position: relative;
   z-index: 2;
 }
@@ -1370,11 +1370,12 @@ right: 15px !important;
   display: inline;
   font-family: nunito sans;
    letter-spacing: 0.0625em;
-  font-size: 12px;
+  font-size: 11px;
   padding: 5px 15px;
 }
 .hot-line span {
   color: #fc8520;
+  font-weight: bolder;
 }
 .hot-line .img-responsive {
   display: inline;
