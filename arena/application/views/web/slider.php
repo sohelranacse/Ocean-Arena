@@ -2,7 +2,7 @@
         <section class="slider-area">
             <div class="weather-box-wrapper wow fadeIn" data-wow-delay="600ms">
                 <div class="weather-box">
-                    <a class="weatherwidget-io" href="https://forecast7.com/en/3d2073d22/maldives/" data-label_1="MALDIVES" data-label_2="WEATHER" data-font="Roboto" data-mode="Current" data-theme="pure" >MALDIVES WEATHER</a>
+                    <a class="weatherwidget-io" href="https://forecast7.com/en/3d2073d22/maldives/" data-label_1="MALDIVES" data-label_2="WEATHER" data-font="Roboto" data-mode="Current" data-theme="pure" ><img src="<?php echo base_url(); ?>web_assets/img/maldives-weather.jpg"></a>
                     <script>
                     !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://weatherwidget.io/js/widget.min.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","weatherwidget-io-js");
                     </script>

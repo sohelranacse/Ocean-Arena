@@ -649,7 +649,7 @@ header {
   width: 320px;
 }
 .weather-box img {
-  margin-top: 9px;
+  margin-top: 0px;
 }
 .weatherwidget-io {
   bottom: 13px;
@@ -1163,6 +1163,40 @@ right: 15px !important;
 .maldives_about_visa_img {
   border-radius: 4px;
   display: flex;
+  width: 100%;
+  height: 465px;
+  max-height: 465px;
+  justify-content: center;
+  margin: 5px 0 20px;
+  overflow: hidden;
+  width: 100%;
+}
+.maldives_about_visa_img > img {
+  height: 100%;
+  border-radius: 4px;
+  max-width: 1000%;
+}
+
+/*
+//SHOERT IMAGE
+
+.maldives_about_visa_img {
+  height: auto;
+  margin: 10px 0 20px;
+  width: 100%;
+}
+.maldives_about_visa_img > img {
+  border-radius: 4px;
+  max-width: 100%;
+}
+*/
+
+/*
+//LONG IMAGES
+
+.maldives_about_visa_img {
+  border-radius: 4px;
+  display: flex;
   height: 400px;
   justify-content: center;
   margin: 5px 0 20px;
@@ -1174,16 +1208,7 @@ right: 15px !important;
   border-radius: 4px;
   max-width: 1000%;
 }
-/*
-.maldives_about_visa_img {
-  height: auto;
-  margin: 10px 0 20px;
-  width: 100%;
-}
-.maldives_about_visa_img > img {
-  border-radius: 4px;
-  max-width: 100%;
-}
+
 */
 
 /*for accommodation images*/
@@ -1366,11 +1391,11 @@ right: 15px !important;
 .hot-line > p {
   background: #732035 none repeat scroll 0 0;
   border-radius: 4px;
-  color: #D2FF28;
+  color: #d2ff28;
   display: inline;
   font-family: nunito sans;
-   letter-spacing: 0.0625em;
   font-size: 11px;
+  letter-spacing: 0.0625em;
   padding: 5px 15px;
 }
 .hot-line span {

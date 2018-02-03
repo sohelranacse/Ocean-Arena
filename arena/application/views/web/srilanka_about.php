@@ -29,22 +29,17 @@
 				<div class="tab-pane active text-style sidebar-content wow fadeIn" data-wow-delay="200ms" id="tab1">
 				    <h2 class="text-center wow fadeIn" data-wow-delay="200ms">About Sri Lanka</h2>
 				    <div class="row sidebar-content-body">
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<div class="maldives_about_visa_img  wow fadeIn" data-wow-delay="200ms">
 								<img src="<?php echo base_url(); ?>web_assets/img/about/srilanka/about.jpg" alt="srilanka about image">
 				    		</div>
 				    	</div>
-				    	<div class="col-md-6 sidebar-content-content wow fadeIn" data-wow-delay="400ms">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<p>
 				    			<strong>Sri Lanka</strong> the country is truly unique! This should go for the exotic and adventurous, with great beaches, a warm sun and crystal clear waters of the Indian Ocean! Sri Lanka - is a wonderful place to relax. During the holidays you can and should manage everything - perfect to relax on the beach, as well as get acquainted with the rich history, traditions, unique monuments of ancient architecture of the island. Sri Lanka - is an ancient country with rich history and ancient traditions - on the island are 8 of architectural and natural sites included in UNESCO's World Heritage Fund.
 					        </p>
 							<p>
-								Sri Lanka - an island in the Indian Ocean (up to 1972 - Ceylon), located south of the Indian subcontinent. It stretches from north to south and 445 km from west to east 225 km. Most of the island is occupied by plains, whose height rarely exceeds 100 m above
-							</p>
-				    	</div>
-				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -10px">
-							<p>
-								sea level. In the center of the island is the Central mountain range. The average height of the mountains - 1000-2000 m above sea level, but some peaks rise above. The highest point of the island - the mountain has a height Pidurutalagala 2524 m, however, is best known for the magnificent Adam's Peak (2243 m). Official capital: Sri Jayavardanapura-Kotte (the seat of parliament and the Supreme Court). Actual Capital: Colombo (seat of government, the residence of the President). Administratively, the country is divided into nine provinces, major cities: Colombo, Kandy, Galle, Anuradhapura, Ratnapura,Jaffna. Sinhalese make up about 75%, Tamils - about 18% of the population, mainly in northern and eastern regions. Is also home to Sri Lankan Muslims - about 7%, Burghers (descendants of intermarriage with Europeans) - about 0.3%, Vedda (descendants of the ancient population of the island) - about a thousand people. About 70% of the population (mostly Sinhalese) practice Buddhism, 15% - Hindu (Tamils), 8% - Christianity, 7% - Islam (Sri Lankan Moors).
+								Sri Lanka - an island in the Indian Ocean (up to 1972 - Ceylon), located south of the Indian subcontinent. It stretches from north to south and 445 km from west to east 225 km. Most of the island is occupied by plains, whose height rarely exceeds 100 m above sea level. In the center of the island is the Central mountain range. The average height of the mountains - 1000-2000 m above sea level, but some peaks rise above. The highest point of the island - the mountain has a height Pidurutalagala 2524 m, however, is best known for the magnificent Adam's Peak (2243 m). Official capital: Sri Jayavardanapura-Kotte (the seat of parliament and the Supreme Court). Actual Capital: Colombo (seat of government, the residence of the President). Administratively, the country is divided into nine provinces, major cities: Colombo, Kandy, Galle, Anuradhapura, Ratnapura,Jaffna. Sinhalese make up about 75%, Tamils - about 18% of the population, mainly in northern and eastern regions. Is also home to Sri Lankan Muslims - about 7%, Burghers (descendants of intermarriage with Europeans) - about 0.3%, Vedda (descendants of the ancient population of the island) - about a thousand people. About 70% of the population (mostly Sinhalese) practice Buddhism, 15% - Hindu (Tamils), 8% - Christianity, 7% - Islam (Sri Lankan Moors).
 					        </p>
 							
 				    	</div>
@@ -54,24 +49,17 @@
 				<div class="tab-pane text-style sidebar-content" id="tab2">
 				    <h2 class="text-center">History of Sri Lanka</h2>
 				    <div class="row sidebar-content-body">
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
 								<img src="<?php echo base_url(); ?>web_assets/img/about/srilanka/History.jpg" alt="srilanka history image">
 				    		</div>
 				    	</div>
-				    	<div class="col-md-6 sidebar-content-content">
-
-
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<p>
 				       			A <strong>mysterious</strong> sunken land, a King with lion paws and the legend of Buddha’s footprint- the history of Sri Lanka is filled with secrets and controversy, making it the perfect place to start an adventure. Once you start to explore the varied history of this island you’ll discover two very different stories. Whilst many will remember the political discord and violence around Sri Lanka in the early 21st Century, few realise that the conflicts between the Sinhalese and Tamils has been ever-present through the origins of Sri Lankan culture.
 				       		</p>
 				       		<p>
-								Most people will be familiar with the legend of the lost city of Atlantis and the tale of an entire land submerged beneath the rising sea and lost forever, but this familiar story of a land being reclaimed by the sea is also present in the Tamils history of Sri Lanka. Tamilan history tells of a thin strip of land that stretched
-							</p>
-				    	</div>
-				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -10px">
-				    		<p>
-				    			18 miles between the coasts of India and Sri Lanka, where the Pandiyan Kings (originally from the Tamil civilisation) ruled over the whole land.
+								Most people will be familiar with the legend of the lost city of Atlantis and the tale of an entire land submerged beneath the rising sea and lost forever, but this familiar story of a land being reclaimed by the sea is also present in the Tamils history of Sri Lanka. Tamilan history tells of a thin strip of land that stretched 18 miles between the coasts of India and Sri Lanka, where the Pandiyan Kings (originally from the Tamil civilisation) ruled over the whole land.
 							</p>
 							<p>
 								If you travel to the depths of the ocean in the area of water just south-west of Bengal Bay, you’ll find a distinct landform made up of limestone, pebbles, and other debris that joins India and Sri Lanka. Perhaps the legends of the Tamil culture aren’t so mythical after all?
@@ -105,26 +93,17 @@
 				<div class="tab-pane text-style sidebar-content" id="tab3">
 				    <h2 class="text-center">Culture &amp; Traditions</h2>
 				    <div class="row sidebar-content-body">
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
 								<img src="<?php echo base_url(); ?>web_assets/img/about/srilanka/culture.jpg" alt="srilanka culture image">
 				    		</div>
-				    		<p>
-				    			
-				    		</p>
 				    	</div>
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<p>
 				    			<srong>Sri Lanka</srong> is one of the few countries with a very vast and rich cultural diversity. The culture is itself very unique and thereby contributes to the Sri Lankan identity. Sri Lankan culture includes a lot of customs and rituals, which date to more than 2000 years which were handed down from generation to generation. The most prominent feature of the Sri Lankan is its colorfulfestivals, which is one of the main tourist attractions. Religion plays an important role in molding the Sri Lankan culture and traditions.
 					        </p>
 					        <p>
-					        	Sri Lankan culture if often reflected by the use of art, architecture, sculptures, and even food. Some people would say that Sri Lanka has a more conventional culture which is obviously influenced by the prominent religions prevailing the country such as Buddhism, Hinduism, Islam, etc. The Sri Lankan way of
-					        </p>
-				    	</div>
-
-				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -10px">
-							<p>
-								life is very simple and filled with humility and happiness,this is one of the reasons why the Sri Lankans have a very great sense in appreciating the simple things in life such as nature.
+					        	Sri Lankan culture if often reflected by the use of art, architecture, sculptures, and even food. Some people would say that Sri Lanka has a more conventional culture which is obviously influenced by the prominent religions prevailing the country such as Buddhism, Hinduism, Islam, etc. The Sri Lankan way of life is very simple and filled with humility and happiness,this is one of the reasons why the Sri Lankans have a very great sense in appreciating the simple things in life such as nature.
 					        </p>
 					        <p>
 					        	One of the main features of the culture is its Indian and European influence. Since most of the time Sri Lankan kings married Indian princesses they incorporated Indian culture into ours but still preserving the unique Sri Lankan identity. The European influence was a result of invasion from the Dutch and Portuguese and finally the British. Hospitality is also one of the prominent characteristics of the culture, making Sri Lankans one of the friendly nations in the world.
@@ -136,22 +115,18 @@
 				<div class="tab-pane text-style sidebar-content" id="tab4">
 				    <h2 class="text-center">Tourism in Maldives</h2>
 				    <div class="row sidebar-content-body">
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
-								<img src="<?php echo base_url(); ?>web_assets/img/about/srilanka/tourism.png" alt="srilanka tourism image">
+								<img src="<?php echo base_url(); ?>web_assets/img/about/srilanka/tourism.jpg" alt="srilanka tourism image">
 				    		</div>
 				    	</div>
-				    	<div class="col-md-6 sidebar-content-content">
-
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<p>
 								<strong>Sri Lanka</strong> is filled with romantic landscapes, governed by rising mountains, lush forests, ocean like tanks and gushing waterfalls, that it was considered the lost paradise by many a globe trotters, who fell upon the country. The golden beaches of the country had been praised for their picture postcard views since eternity. The dusk and dawn and many human activities connected to these times of the day creates a vibrant picture along the coasts of Sri Lanka.
 					        </p>
 					        <p>
 					        	The central highlands of the island are filled with pictures of stirring mountains carpeted with lush green tea gardens, roaring waterfalls mingling with the clouds and landscapes shimmering in sunlight and disappearing under the rising mist. Travelling towards the top of the country to the North Central Valley of the Kings, mountains covered with lush tropical forests disappears
 					        </p>
-				    	</div>
-
-				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -10px">
 				    		<p>
 				    			under the glare of the sun giving way to acres of light green carpets of paddy dotted with towering ancient white stupas and fed with oceans like reservoirs locally known as wewa.  Giant statues of Lord Buddha rises above the forest line while ancient palaces stand abandoned to the forest, waiting for a master, who long departed from life. Travelling further north the landscape changes drastically, North of Sri Lanka is a world apart from the rest of country. Colorful Hindu temples replace the white pagodas while sari clad damsels roam the streets on bicycles.
 				    		</p>
@@ -172,12 +147,12 @@
 				<div class="tab-pane text-style sidebar-content" id="tab5">
 				    <h2 class="text-center">KEY POINTS</h2>
 				    <div class="row sidebar-content-body">
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-5 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
 								<img src="<?php echo base_url(); ?>web_assets/img/about/srilanka/key-points.jpg" alt="srilanka key points image">
 				    		</div>
 				    	</div>
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-7 sidebar-content-content">
 				    						    		
 				    		<h5>Pearl of the Indian Ocean &amp; Teardrop of India:</h5>
 				    		<p>
@@ -188,13 +163,16 @@
 								In Sri Lanka, it’s very common for people to “waggle” their heads from side to side (more of a pendulum swing than a shaking of the head), there’s quite a bit of variation on what this actually means. But generally, it means “yes” or an affirmative answer. However, it can also be interpreted as “Do you agree?”.
 					        </p>
 				    		<h5>Sri Lankan national sport:</h5>
+				    		<p>
+								You might be mistaken for thinking the national sport of Sri Lanka is cricket. Although it is by far the most popular sport in the country (after it’s introduction by the British in the 1800s, and having several successful teams, coming runners up in some of the largest competitions), the national sport  
+					        </p>
 				    	</div>
 				    	
 
 				    	<div class="col-md-12 sidebar-content-content">
 				    		<p>
-								You might be mistaken for thinking the national sport of Sri Lanka is cricket. Although it is by far the most popular sport in the country (after it’s introduction by the British in the 1800s, and having several successful teams, coming runners up in some of the largest competitions), the national sport of the country is, in fact, volleyball, which was introduced in 1916. 
-					        </p>
+				    			of the country is, in fact, volleyball, which was introduced in 1916.
+				    		</p>
 					        <h5>Sri Lanka’s largest export:</h5>
 					        <p>
 								Tea is Sri Lanka’s largest export, accounting for 12% of its export by product (2014). It’s the fourth largest exporter of tea in the world, and in February 2017, marked its 150th anniversary of tea exportation. Ceylon Tea, being that Sri Lanka is most known for, is considered by the cleanest tea in the world by the ISO (with the least pesticide residue quantities).

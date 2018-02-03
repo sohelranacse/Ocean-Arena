@@ -30,20 +30,18 @@
 				<div class="tab-pane active text-style sidebar-content wow fadeIn" data-wow-delay="200ms" id="tab1">
 				    <h2 class="text-center wow fadeIn" data-wow-delay="200ms">About Maldives</h2>
 				    <div class="row sidebar-content-body">
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<div class="maldives_about_visa_img  wow fadeIn" data-wow-delay="200ms">
 								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives/about.jpg" alt="maldives about image">
 				    		</div>
 				    	</div>
-				    	<div class="col-md-6 sidebar-content-content wow fadeIn" data-wow-delay="400ms">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<p>
 				    			The <strong>Maldives</strong> officially the <strong>Republic of Maldives</strong> is a South Asian island country, located in the Indian Ocean, situated in the Arabian Sea. It lies southwest of Sri Lanka and India. The chain of 26 atolls stretches from Ihavandhippolhu Atoll in the north to the Addu City in the south. Comprising a territory spanning roughly 298 square kilometers, the Maldives is one of the world's most geographically dispersed countries, as well as the smallest Asian country by both land area and population, with around 427,756 inhabitants. Malé is the capital and most populated city.
 					        </p>
 					        <p>
 								These are the most beautiful small islands on Earth. They are safe; there are no hawkers selling sarongs and taxi tours and, unless you seek them out, no distractions. There is no agriculture and no industry and the turquoise lagoons are crystal clear. Strange to think that the idyllic Maldives have only been a holiday
 							</p>
-				    	</div>
-				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -10px">
 							<p>
 								destination for 40 years or so. The Maldives are made up of 26 coral atolls in a chain reaching down to cross the equator. Within those 26 atolls are roughly 1,200 islands and of these around 200 are inhabited and 100 are resorts.
 					        </p>
@@ -55,24 +53,17 @@
 				<div class="tab-pane text-style sidebar-content" id="tab2">
 				    <h2 class="text-center">History of Maldives</h2>
 				    <div class="row sidebar-content-body">
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
 								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives/History.jpg" alt="maldives history image">
 				    		</div>
 				    	</div>
-				    	<div class="col-md-6 sidebar-content-content">
-
-
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<p>
 				       			<strong>Archaeological</strong> finds indicate that the Maldives was inhabited as early as 1,500 BC but much of the country's origin is lost in time due to a lack of surviving written records. However, there are all kinds of fascinating folklores and myths about the history of the Maldives.
 				       		</p>
 				       		<p>
-								It is believed that the most important factor that contributed to the first ever settlement of people in the Maldives is its geographical location. Large ruins and other archaeological remains found in the islands including those bordering the equatorial channel and the One and a Half Degree channel bear testimony to the fact that people of antiquity had indeed stumbled upon the country during their travels. It is believed that permanent settlements were established in around 500 BC by Aryan immigrants from the Indian subcontinent. Many customs,
-							</p>
-				    	</div>
-				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -10px">
-							<p>
-								traditional practices and superstitious beliefs that still prevail in the country also attest to the influence of the early Dravidian culture of the Maldives. Although it is most probable that early Maldivians were Buddhist or Hindus migrating from the Indian subcontinent, the archaeologist Thor Heyerdahl, who carried out extensive archaeological research in the Maldives and has contributed significantly to theories of the origins of the country, stated that some of the figures unearthed from the ancient mounds bore a striking resemblance to the figures he had investigated on Easter island in the Pacific Ocean. Many of these theories, however, are still a matter of controversy and the Maldives still holds many more secrets about its past which are yet to be unearthed.
+								It is believed that the most important factor that contributed to the first ever settlement of people in the Maldives is its geographical location. Large ruins and other archaeological remains found in the islands including those bordering the equatorial channel and the One and a Half Degree channel bear testimony to the fact that people of antiquity had indeed stumbled upon the country during their travels. It is believed that permanent settlements were established in around 500 BC by Aryan immigrants from the Indian subcontinent. Many customs, traditional practices and superstitious beliefs that still prevail in the country also attest to the influence of the early Dravidian culture of the Maldives. Although it is most probable that early Maldivians were Buddhist or Hindus migrating from the Indian subcontinent, the archaeologist Thor Heyerdahl, who carried out extensive archaeological research in the Maldives and has contributed significantly to theories of the origins of the country, stated that some of the figures unearthed from the ancient mounds bore a striking resemblance to the figures he had investigated on Easter island in the Pacific Ocean. Many of these theories, however, are still a matter of controversy and the Maldives still holds many more secrets about its past which are yet to be unearthed.
 							</p>
 							<p>
 								The accounts of travellers who had stopped over for supplies and due to shipwrecks (as the Maldives is located along the ancient marine trade routes from the West to the East) also serve as useful guides to the history of these small islands. Cowrie shells were used as one of the oldest forms of currency amongst traders who traversed the region, and the Maldives offered one of the most plentiful supplies of these shells.
@@ -93,15 +84,13 @@
 				<div class="tab-pane text-style sidebar-content" id="tab3">
 				    <h2 class="text-center">Culture &amp; Traditions</h2>
 				    <div class="row sidebar-content-body">
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-4 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
 								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives/culture.jpg" alt="maldives culture image">
 				    		</div>
-				    		<p>
-				    			
-				    		</p>
 				    	</div>
-				    	<div class="col-md-6 sidebar-content-content">
+
+				    	<div class="col-md-8 sidebar-content-content">
 				    		<p>
 				    			The <strong>Maldivian</strong> ethnic identity is a blend of the cultures reflecting the peoples who settled on the islands, reinforced by religion and language. The earliest settlers were probably from southern India and Sri Lanka. They are linguistically and ethnically related to the people in the Indian subcontinent. They are ethnically known as Dhivehis.
 					        </p>
@@ -109,36 +98,25 @@
 					        	Maldivian culture is heavily influenced by geographical proximity to Sri Lanka and southern India. The official and common language is Dhivehi, an Indo-European language having some similarities with “Elu”, the ancient Sinhalese language. 
 					        </p>
 					        <p>
-					        	After the long Buddhist period of Maldivian history, Muslim traders introduced Sunni Islam. Maldivians converted by the 12th century. Since the 12th century AD there were also influences from Arabia in the language and culture of the Maldives because
+					        	After the long Buddhist period of Maldivian history, Muslim traders introduced Sunni Islam. Maldivians converted by the 12th century. Since the 12th century AD there were also influences from Arabia in the language and culture of the Maldives because of the conversion to Islam and its location as a crossroads in the central Indian Ocean. This was due to the long trading history between the Far East and the Middle East.
 					        </p>
 				    	</div>
-
-				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -10px">
-							<p>
-								of the conversion to Islam and its location as a crossroads in the central Indian Ocean. This was due to the long trading history between the Far East and the Middle East.
-					        </p>
-							
-				    	</div>
-
+				    	
 				    </div>
 				</div>
 				<div class="tab-pane text-style sidebar-content" id="tab4">
 				    <h2 class="text-center">Tourism in Maldives</h2>
 				    <div class="row sidebar-content-body">
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
 								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives/tourism.jpg" alt="maldives tourism image">
 				    		</div>
 				    	</div>
-				    	<div class="col-md-6 sidebar-content-content">
-
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<p>
 								<strong>Tourism</strong> is the largest economic industry in the Maldives. A tourist resort in the Maldives consists of an exclusive hotel on its own island, with its population entirely based on tourists and work force, with no local people or houses. These islands developed for tourism are approximately 800 by 200 metres in size and are composed of sand and coral to a maximum height of about 2 metres above the sea. In addition to its beach encircling the island, each island has its own "house reef" which serves as a coral garden and natural aquarium for scuba divers and snorkelers. The shallow water enclosed by the house reef also serves as a large natural swimming pool and protects swimmers from the ocean waves and strong tidal currents outside the house reef.
 					        </p>
 					        <h5>MALDIVES TOURIS VISA:</h5>
-				    	</div>
-
-				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -10px">
 					        <p>
 					        	Tourists from any nationality are granted a free 30-day visa on arrival in the Maldives. Hence, there is no need for you to undergo any hassle with regards to obtaining prior visa. Once you reach the airport, Immigration personnel will assist you with the visa procedures.
 					        </p>
@@ -155,13 +133,14 @@
 				<div class="tab-pane text-style sidebar-content" id="tab5">
 				    <h2 class="text-center">KEY POINTS</h2>
 				    <div class="row sidebar-content-body">
-				    	<div class="col-md-6 sidebar-content-content">
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<div class="maldives_about_visa_img">
 								<img src="<?php echo base_url(); ?>web_assets/img/about/maldives/key-points.jpg" alt="maldives key points image">
 				    		</div>
 				    	</div>
-				    	<div class="col-md-6 sidebar-content-content">
-				    						    		
+				    	
+
+				    	<div class="col-md-12 sidebar-content-content">
 				    		<h5>Location:</h5>
 				    		<p>
 								<strong>Southwest</strong> of Sri Lanka, straddling the equator. Latitudes 4 degrees 17 north and longitudes 73 degrees 50 east.
@@ -177,11 +156,6 @@
 					        </p>
 
 					        <h5>What to wear:</h5>
-				    		
-				    	</div>
-				    	
-
-				    	<div class="col-md-12 sidebar-content-content"  style="margin-top: -10px">
 					        <p>
 								Dress is generally casual. T-shirts and cotton clothing are most suitable. In Male’, the capital island, and other inhabited islands it is recommended that women respect local customs and wear modest clothing.
 					        </p>

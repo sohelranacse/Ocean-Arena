@@ -16,6 +16,14 @@ smaller than 980 /768 to 1040/
 	  font-size: 13px;
 	}
 
+
+  .maldives_about_visa_img {
+    height: 300px;
+  }
+  .service-left-img, .service-right-img {
+    background: none;
+  }
+
 }
 
 /************************************************************************************
@@ -79,7 +87,12 @@ smaller than 650
   color: #dddddd;
 }
 
-	
+
+
+.maldives_about_visa_img {
+  height: 300px;
+}
+
 
 }
 
