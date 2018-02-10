@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   $("#partner").owlCarousel({
-    autoPlay: 700,
+    autoPlay: 2000,
     items : 4,
     itemsDesktop : [1199,4],
     itemsDesktopSmall : [979,4],
@@ -14,3 +14,14 @@ $(document).ready(function() {
 
 
 });
+/*
+$('nav ul li').click(function(){
+    var cname = $(this).attr('class');
+    if (cname == 'dropdown') {
+        $('.dropdown-menu').slideUp();
+        $(this).find('.dropdown-menu').slideToggle();
+    }else{
+        $('.dropdown-menu').slideUp();
+    }    
+});
+*/

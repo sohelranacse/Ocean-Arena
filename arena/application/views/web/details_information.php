@@ -63,12 +63,12 @@ function goBack() {
 			                  foreach ($query->result_array() as $rooms_data) {
 			                ?>
 							<div class="row" style="padding: 10px 15px">
-								<div class="col-md-4 col-sm-4">
+								<div class="col-md-6 col-sm-6">
 									<div class="maldives_about_visa_img_details">
 										<img src="<?php echo base_url(); ?>web_assets/img/rooms/<?php echo $rooms_data['userfile']; ?>" alt="accommodation image">
 						    		</div>
 								</div>
-								<div class="col-md-8 col-sm-8">
+								<div class="col-md-6 col-sm-6">
 									<h5><?php echo $rooms_data['title']; ?></h5>
 									<p>
 										<?php echo $rooms_data['description']; ?>

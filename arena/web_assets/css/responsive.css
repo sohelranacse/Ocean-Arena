@@ -92,7 +92,9 @@ smaller than 650
 .maldives_about_visa_img {
   height: 300px;
 }
-
+.icon-style {
+  top: 35%;
+}
 
 }
 
@@ -106,7 +108,17 @@ smaller than 560
 		-webkit-text-size-adjust: none;
 	}
 
-	
-
 }
 
+
+@media screen and (max-width: 1920px) {
+
+.mitem {
+  max-height: 800px;
+}
+.slider-area{
+  max-height: 800px;
+}
+  
+
+}
