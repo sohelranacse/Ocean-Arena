@@ -24,7 +24,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = 'http://www.oceanarenatravels.com/beta/';
-//$config['base_url'] = 'http://localhost/arena/';
 
 /*
 |--------------------------------------------------------------------------
