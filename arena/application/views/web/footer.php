@@ -63,7 +63,7 @@
             </div>
         </footer>
 
-        <div class="made-thirdhandbd hidden-sm hidden-xs">
+        <div class="made-thirdhandbd">
             <div class="container">
                 <div class="col-md-offset-1 col-md-10 padding0">
                     <div class="col-md-6 col-sm-6 padding0">
