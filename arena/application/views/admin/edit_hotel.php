@@ -79,12 +79,6 @@ if ($query->num_rows()>0) {
                   <input class="span11" value="<?php echo $data['duration']; ?>" name="duration" placeholder="Duration" type="text">
                 </div>
               </div>
-              <div class="control-group">
-                <label class="control-label">Airport:</label>
-                <div class="controls">
-                  <input class="span11" value="<?php echo $data['airport']; ?>" name="airport" placeholder="Airport" type="text">
-                </div>
-              </div>
 
               <div class="form-actions text-right">
                 <button type="submit" class="btn btn-success">Submit</button>

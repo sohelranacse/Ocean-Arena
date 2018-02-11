@@ -219,7 +219,6 @@ class Admin extends CI_Controller {
         $atoll = $this->input->post('atoll');
         $no_of_villas = $this->input->post('no_of_villas');
         $duration = $this->input->post('duration');
-        $Airport = $this->input->post('airport');
 
         if ($this->form_validation->run()==false) {
             $this->productadded();
@@ -230,8 +229,7 @@ class Admin extends CI_Controller {
                 'rating' => $rating,
                 'atoll' => $atoll,
                 'no_of_villas' => $no_of_villas,
-                'duration' => $duration,
-                'airport' => $Airport
+                'duration' => $duration
             );
             $this->db->insert('resorts',$insert);
 
@@ -284,7 +282,6 @@ class Admin extends CI_Controller {
         $district = $this->input->post('district');
         $no_of_rooms = $this->input->post('no_of_rooms');
         $duration = $this->input->post('duration');
-        $Airport = $this->input->post('airport');
 
         if ($this->form_validation->run()==false) {
             $this->view_hotel();
@@ -296,8 +293,7 @@ class Admin extends CI_Controller {
                 'rating' => $rating,
                 'district' => $district,
                 'no_of_rooms' => $no_of_rooms,
-                'duration' => $duration,
-                'airport' => $Airport
+                'duration' => $duration
             );
             $this->db->insert('hotels',$insert);
 
@@ -684,7 +680,6 @@ class Admin extends CI_Controller {
         $district = $this->input->post('district');
         $no_of_rooms = $this->input->post('no_of_rooms');
         $duration = $this->input->post('duration');
-        $Airport = $this->input->post('airport');
 
         if ($this->form_validation->run()==false) {
             $this->view_hotel();
@@ -696,8 +691,7 @@ class Admin extends CI_Controller {
                 'rating' => $rating,
                 'district' => $district,
                 'no_of_rooms' => $no_of_rooms,
-                'duration' => $duration,
-                'airport' => $Airport
+                'duration' => $duration
             );
             $this->db->where('id',$id);
             $this->db->update('hotels',$update);
@@ -757,7 +751,6 @@ class Admin extends CI_Controller {
         $atoll = $this->input->post('atoll');
         $no_of_villas = $this->input->post('no_of_villas');
         $duration = $this->input->post('duration');
-        $Airport = $this->input->post('airport');
 
         if ($this->form_validation->run()==false) {
             $this->productadded();
@@ -768,8 +761,7 @@ class Admin extends CI_Controller {
                 'rating' => $rating,
                 'atoll' => $atoll,
                 'no_of_villas' => $no_of_villas,
-                'duration' => $duration,
-                'airport' => $Airport
+                'duration' => $duration
             );
             $this->db->where('id',$id);
             $this->db->update('resorts',$update);

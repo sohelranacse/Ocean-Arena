@@ -66,12 +66,6 @@
                   <input class="span11" name="duration" placeholder="Duration" type="text">
                 </div>
               </div>
-              <div class="control-group">
-                <label class="control-label">Airport:</label>
-                <div class="controls">
-                  <input class="span11" name="airport" placeholder="Airport" type="text">
-                </div>
-              </div>
 
               <div class="form-actions text-right">
                 <button type="submit" class="btn btn-success">Submit</button>

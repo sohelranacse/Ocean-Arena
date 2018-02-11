@@ -14,7 +14,7 @@ $(document).ready(function() {
 
 
 });
-/*
+
 $('nav ul li').click(function(){
     var cname = $(this).attr('class');
     if (cname == 'dropdown') {
@@ -24,4 +24,3 @@ $('nav ul li').click(function(){
         $('.dropdown-menu').slideUp();
     }    
 });
-*/

@@ -26,7 +26,6 @@
                   <th>Atoll</th>
                   <th>No of Villas</th>
                   <th>Duration</th>
-                  <th>Airport</th>
                   <th colspan="3">Action</th>
                 </tr>
               </thead>
@@ -43,8 +42,7 @@
                   <td><?php echo $data['rating']; ?></td>
                   <td><?php echo $data['atoll']; ?></td>
                   <td><?php echo $data['no_of_villas']; ?></td>
-                  <td><?php echo $data['duration']; ?></td>
-                  <td><?php echo $data['airport']; ?> km</td>                  
+                  <td><?php echo $data['duration']; ?></td>                 
                   <td>
                     <a class="btn btn-success btn-mini" data-original-title="Add details" href="<?php echo base_url(); ?>admin/details/1/0/<?php echo $data['id'] ?>" target="_blank">
                       <i class="icon-plus"></i> Details

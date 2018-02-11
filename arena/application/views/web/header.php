@@ -61,6 +61,7 @@
 
                             <ul class="nav navbar-nav navbar-right">
                                 <li><a href="<?php echo base_url(); ?>home" class="<?php if($title=='Ocean Arena'){echo 'active-menu';} ?>">HOME</a></li>
+                                <li><a class="<?php if($title=='About us || Ocean Arena'){echo 'active-menu';} ?>" href="<?php echo base_url(); ?>home/about">ABOUT US</a></li>
 
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle <?php if($title=='Maldives || Ocean Arena' || $title=='Maldives Resorts || Ocean Arena' || $title=='Maldives Hotel || Ocean Arena'){echo 'active-menu';} ?>" data-toggle="dropdown">MALDIVES <b class="caret"></b></a>
@@ -72,13 +73,12 @@
                                 </li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle <?php if($title=='Sri Lanka || Ocean Arena' || $title=='Sri Lanka Hotel || Ocean Arena' || $title=='Sri Lanka Packages || Ocean Arena'){echo 'active-menu';} ?>" data-toggle="dropdown">SRI LANKA <b class="caret"></b></a>
-                                    <ul class="dropdown-menu  mynav-list-drop">
+                                    <ul class="dropdown-menu  mynav-list-drop sri-drop">
                                         <li><a href="<?php echo base_url(); ?>home/srilanka_about">ABOUT</a></li>
                                         <li><a href="<?php echo base_url(); ?>home/hotel_srilanka">HOTEL</a></li>
                                         <li><a href="<?php echo base_url(); ?>home/srilanka_packages">PACKAGES</a></li>
                                     </ul>
                                 </li>
-                                <li><a class="<?php if($title=='About us || Ocean Arena'){echo 'active-menu';} ?>" href="<?php echo base_url(); ?>home/about">ABOUT US</a></li>
                                 <li><a class="<?php if($title=='Contact us || Ocean Arena'){echo 'active-menu';} ?>" href="<?php echo base_url(); ?>home/contact">CONTACT</a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->

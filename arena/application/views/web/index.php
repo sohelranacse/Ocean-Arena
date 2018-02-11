@@ -10,8 +10,7 @@
 
         <!-- ARENA SERVICE AREA START  -->
         <section class="arena-service-section text-center">
-            <div class="service-left-img">
-                <div class="service-right-img">
+                <div class="service-right">
                     <div class="container">
                         <div class="col-md-offset-4 col-sm-offset-4 col-md-4 col-sm-4">
                             <span class="service-divider wow fadeIn" data-wow-delay="200ms">
@@ -69,7 +68,6 @@
                         
                     </div>
                 </div>
-            </div>
         </section>
         <!-- ARENA SERVICE AREA END  -->
 

@@ -128,7 +128,7 @@ header {
   border: medium none;
   border-radius: 0;
   max-width: 200px;
-  min-width: 188px;
+  min-width: 116px;
   padding: 0;
 }
 .mynav-list-drop>li{}
@@ -155,8 +155,9 @@ header {
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
   border: 0 none;
 }
-
-
+.sri-drop {
+  width: 117px;
+}
 
 
 
@@ -194,8 +195,8 @@ header {
 
 
 .arena-service-section {
-  padding-bottom: 60px;
 }
+/*
 .service-right-img {
   background-attachment: local;
   background-image: url("../img/services-bg-right.png");
@@ -211,11 +212,17 @@ header {
   background-repeat: no-repeat;
   background-size: 35% auto;
 }
-
-
+*/
+.service-right {
+  background-image: url("../img/services-bg1.jpg");
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  padding-bottom: 75px;
+}
 .service-divider {
   display: inline-block;
-  padding: 78px 0 0;
+  padding: 75px 0 0;
   width: 230px;
 }
 .solution-we-pro {
@@ -416,13 +423,13 @@ header {
   width: auto;
 }
 .ocean-grid1 > a {
-  letter-spacing: 0.0625em;
-  background: #843146 none repeat scroll 0 0;
+  background: #732035 none repeat scroll 0 0;
   border-radius: 4px;
-  color: #CEA07E;
+  color: #cea07e;
   display: inline-block;
   font-size: 12px;
   font-weight: bold;
+  letter-spacing: 0.0625em;
   margin: 15px 0 15px 18px;
   outline: 0 none;
   padding: 8px 30px;
@@ -512,7 +519,6 @@ header {
   font-family: nunito sans;
   font-size: 12px;
   text-align: left;
-  text-transform: lowercase;
 }
 .made-thirdhandbd > span {
   display: inline-block;
@@ -521,7 +527,6 @@ header {
 .footer_anchor {
   font-weight: 900;
   color: #a44860;
-  opacity: 0.6;
   display: inline-block;
   outline: 0 none;
   text-decoration: none;

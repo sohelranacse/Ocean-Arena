@@ -67,10 +67,10 @@
             <div class="container">
                 <div class="col-md-offset-1 col-md-10 padding0">
                     <div class="col-md-6 col-sm-6 padding0">
-                        <span>MADE WITH &#10084; BY <a href="https://thirdhandbd.com" class="footer_anchor" target="_blank">THIRDHAND BANGLADESH</a></span>
+                        <span>Made with &#10084; by <a href="https://thirdhandbd.com" class="footer_anchor" target="_blank">ThirdHand Bangladesh</a></span>
                     </div>
                     <div class="col-md-6 col-sm-6 for-xs-l text-right">
-                        <span>COPYRIGHT <?php echo date("Y"); ?> <a href="http://oceanarenatravels.com/" class="footer_anchor" target="_blank">OCEAN ARENA TRAVELS</a></span>
+                        <span>&copy; <?php echo date("Y"); ?> Copyright <a href="http://oceanarenatravels.com/" class="footer_anchor" target="_blank">Ocean Arena Travels</a></span>
                     </div>
                 </div>
             </div>
