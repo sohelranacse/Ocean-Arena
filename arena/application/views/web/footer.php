@@ -1,4 +1,5 @@
         <!-- ARENA FOOTER AREA START  -->
+
         <footer class="footer-section">
             <div class="container">
                 <div class="row">
@@ -92,5 +93,20 @@
         </script>
         <script src="https://www.google-analytics.com/analytics.js" async defer></script>
 
+        <script>
+        $(document).ready(function() {
+        //Preloader
+        $(window).load(function() {
+        preloaderFadeOutTime = 500;
+        function hidePreloader() {
+        var preloader = $('.spinner-wrapper');
+        preloader.fadeOut(preloaderFadeOutTime);
+        }
+        hidePreloader();
+        });
+        });
+        </script>
+
     </body>
+
 </html>

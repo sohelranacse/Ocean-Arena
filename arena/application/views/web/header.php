@@ -11,6 +11,8 @@
         <link rel="shortcut icon" href="<?php echo base_url(); ?>web_assets/img/favicon.png">
         <!-- Place favicon.ico in the root directory -->
         <link href="<?php echo base_url(); ?>web_assets/css/bootstrap.min.css" rel="stylesheet"> <!-- BOOTSTRAP CSS -->
+        <link href="<?php echo base_url(); ?>web_assets/css/style.css" rel="stylesheet"> <!-- CUSTOM CSS -->
+        <script src="<?php echo base_url(); ?>web_assets/js/jquery.min.js"></script> <!-- JQUERY JS -->
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
@@ -18,10 +20,18 @@
         <link href="<?php echo base_url(); ?>web_assets/css/owl.carousel.css" rel="stylesheet"> <!-- OWLCAROUSAL SLIDER CSS -->
         <link href="<?php echo base_url(); ?>web_assets/css/animate.css" rel="stylesheet"> <!-- NORMALIZE CSS -->
         <link href="<?php echo base_url(); ?>web_assets/css/normalize.css" rel="stylesheet"> <!-- NORMALIZE CSS -->
-        <link href="<?php echo base_url(); ?>web_assets/css/style.css" rel="stylesheet"> <!-- CUSTOM CSS -->
         <link href="<?php echo base_url(); ?>web_assets/css/responsive.css" rel="stylesheet"> <!-- RESPONSIVE CSS -->
-        <script src="<?php echo base_url(); ?>web_assets/js/jquery.min.js"></script> <!-- JQUERY JS -->
     </head>
+
+    <!--CSS Spinner-->
+    <div class="spinner-wrapper">
+    <div class="spinner">
+      <div class="bounce1"></div>
+      <div class="bounce2"></div>
+      <div class="bounce3"></div>
+    </div>
+    </div>
+
     <body>
         <!--[if lte IE 9]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
