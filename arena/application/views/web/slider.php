@@ -13,9 +13,9 @@
                 <div id="carousel-example-generic" class="carousel slide carousel-fade" data-ride="carousel">
                     <!-- Indicators -->
                     <ol class="carousel-indicators">
-                        <li data-target="#carousel-example-generic" data-slide-to="0" class=""></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
                         <li data-target="#carousel-example-generic" data-slide-to="1" class=""></li>
-                        <li data-target="#carousel-example-generic" data-slide-to="2" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2" class=""></li>
                         <li data-target="#carousel-example-generic" data-slide-to="3" class=""></li>
                         <li data-target="#carousel-example-generic" data-slide-to="4" class=""></li>
                         <li data-target="#carousel-example-generic" data-slide-to="5" class=""></li>
@@ -23,23 +23,23 @@
 
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">                        
-                        <div class="item mitem">
-                            <img src="<?php echo base_url(); ?>web_assets/img/slider/03-maldive-beach.jpg">
-                        </div>
-                        <div class="item mitem">
-                            <img src="<?php echo base_url(); ?>web_assets/img/slider/01-maldive-aerial.jpg">
-                        </div>
                         <div class="item mitem active">
-                            <img src="<?php echo base_url(); ?>web_assets/img/slider/02-mirihi-beachs-dining.jpg">
+                            <img src="<?php echo base_url(); ?>web_assets/img/slider/01-anantara-villas-maldives.jpg">
                         </div>
                         <div class="item mitem">
-                            <img src="<?php echo base_url(); ?>web_assets/img/slider/01-maldive-aerial.jpg">
+                            <img src="<?php echo base_url(); ?>web_assets/img/slider/02-lily-beach-resort-spa-maldives.jpg">
                         </div>
                         <div class="item mitem">
-                            <img src="<?php echo base_url(); ?>web_assets/img/slider/02-mirihi-beachs-dining.jpg">
+                            <img src="<?php echo base_url(); ?>web_assets/img/slider/03-soneva-jani-resort-maldives.jpg">
                         </div>
                         <div class="item mitem">
-                            <img src="<?php echo base_url(); ?>web_assets/img/slider/01-maldive-aerial.jpg">
+                            <img src="<?php echo base_url(); ?>web_assets/img/slider/04-resort-ella-sri-lanka.jpg">
+                        </div>
+                        <div class="item mitem">
+                            <img src="<?php echo base_url(); ?>web_assets/img/slider/05-colombo-sri-lanka.jpg">
+                        </div>
+                        <div class="item mitem">
+                            <img src="<?php echo base_url(); ?>web_assets/img/slider/06-lake-gregory.jpg">
                         </div>
                     </div>
                     <!-- Left and right controls -->
