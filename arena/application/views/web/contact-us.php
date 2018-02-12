@@ -8,7 +8,7 @@
 	            <img src="<?php echo base_url(); ?>web_assets/img/divider-2.png" class="img-responsive" alt="Image">
 	        </span>
             <p>
-                Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days. <br> We are open from 24/7. 
+                Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours. <br> We are open 24/7. 
             </p>
             <span class="span"></span>
             
@@ -58,7 +58,7 @@
 				<div class="ocean-address b-bottom">
 					<h5>Malé Office:</h5>
 					<ul>
-						<li><span class="dp">Address: </span><span class="rp">Ma. Daisy Villa (Ground Floor), Anoana Goalhi, Male, Republic of Maldives.</span></li>
+						<li><span class="dp">Address: </span><span class="rp">Ma. Daisy Villa (Ground Floor), Anoana Goalhi, Male, Maldives.</span></li>
 						<li><span class="dp">Tel: </span><span class="rp">+960 3337799</span></li>
 						<li><span class="dp">Fax: </span><span class="rp">+960 3338644</span></li>
 						<li><span class="dp">Email: </span><span class="rp">sales@oceanarenatravels.com</span></li>
@@ -69,8 +69,7 @@
 					<h5>Dhaka Office:</h5>
 					<ul>
 						<li><span class="dp">Address: </span><span class="rp">146/C West Rampura, Dhaka, Bangladesh.</span></li>
-						<li><span class="dp">Phone: </span><span class="rp">+88 01758 521764</span></li>
-						<li><span class="dp">Phone: </span><span class="rp">+88 01865 685555</span></li>
+						<li><span class="dp">Tel: </span><span class="rp">+88 01758 521764, +88 01865 685555</span></li>
 						<li><span class="dp">Email: </span><span class="rp">jahid@oceanarenatravels.com</span></li>
 					</ul>
 				</div>

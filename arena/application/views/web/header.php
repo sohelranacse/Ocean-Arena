@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title><?php echo $title; ?> │ Travel to Maldives And Sri Lanka</title>
-        <meta name="description" content="">
+        <meta name="description" content="Maldives Travel Agency, with offices in Sri Lanka and Bangladesh. We provide the best travel packages and holiday experience at the best prices.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="<?php echo base_url(); ?>web_assets/site.webmanifest">
         <link rel="apple-touch-icon" href="<?php echo base_url(); ?>web_assets/img/favicon.png">
@@ -13,10 +13,7 @@
         <link href="<?php echo base_url(); ?>web_assets/css/bootstrap.min.css" rel="stylesheet"> <!-- BOOTSTRAP CSS -->
         <link href="<?php echo base_url(); ?>web_assets/css/style.css" rel="stylesheet"> <!-- CUSTOM CSS -->
         <script src="<?php echo base_url(); ?>web_assets/js/jquery.min.js"></script> <!-- JQUERY JS -->
-        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Satisfy|Tangerine" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Nunito+Sans|Playfair+Display|Quicksand|Satisfy|Tangerine" rel="stylesheet">
         <link href="<?php echo base_url(); ?>web_assets/css/owl.carousel.css" rel="stylesheet"> <!-- OWLCAROUSAL SLIDER CSS -->
         <link href="<?php echo base_url(); ?>web_assets/css/animate.css" rel="stylesheet"> <!-- NORMALIZE CSS -->
         <link href="<?php echo base_url(); ?>web_assets/css/normalize.css" rel="stylesheet"> <!-- NORMALIZE CSS -->
