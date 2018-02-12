@@ -37,10 +37,10 @@
 				    	</div>
 				    	<div class="col-md-12 sidebar-content-content">
 				    		<p>
-				    			The <strong>Maldives</strong> officially the <strong>Republic of Maldives</strong> is a South Asian island country, located in the Indian Ocean, situated in the Arabian Sea. It lies southwest of Sri Lanka and India. The chain of 26 atolls stretches from Ihavandhippolhu Atoll in the north to the Addu City in the south. Comprising a territory spanning roughly 298 square kilometers, the Maldives is one of the world's most geographically dispersed countries, as well as the smallest Asian country by both land area and population, with around 427,756 inhabitants. Malé is the capital and most populated city.
+				    			The <strong>Maldives</strong>, officially the <strong>Republic of Maldives</strong>, is a South Asian island country, located in the Indian Ocean, situated in the Arabian Sea. It lies south-west of Sri Lanka and India. The chain of 26 atolls stretches from Ihavandhippolhu Atoll in the north to the Addu City in the south. Comprising a territory spanning roughly 298 square kilometers, the Maldives is one of the world's most geographically dispersed countries, as well as the smallest Asian country by both land area and population, with around 427,756 inhabitants. Malé is the capital and most populated city.
 					        </p>
 					        <p>
-								These are the most beautiful small islands on Earth. They are safe; there are no hawkers selling sarongs and taxi tours and, unless you seek them out, no distractions. There is no agriculture and no industry and the turquoise lagoons are crystal clear. Strange to think that the idyllic Maldives have only been a holiday
+								These are the most beautiful small islands on Earth. They are safe; there are no hawkers selling sarongs or taxi tours, unless you seek them out. Absolutely no distractions. There is no agriculture and no industry and the turquoise lagoons are crystal clear. Strange to think that the idyllic Maldives has only been a holiday
 							</p>
 							<p>
 								destination for 40 years or so. The Maldives are made up of 26 coral atolls in a chain reaching down to cross the equator. Within those 26 atolls are roughly 1,200 islands and of these around 200 are inhabited and 100 are resorts.

@@ -58,7 +58,7 @@
 				<div class="ocean-address b-bottom">
 					<h5>Malé Office:</h5>
 					<ul>
-						<li><span class="dp">Address: </span><span class="rp">Ma, Daisy Villa (Ground Floor) Anoana Goalhi Male, Republic of Maldives.</span></li>
+						<li><span class="dp">Address: </span><span class="rp">Ma. Daisy Villa (Ground Floor), Anoana Goalhi, Male, Republic of Maldives.</span></li>
 						<li><span class="dp">Tel: </span><span class="rp">+960 3337799</span></li>
 						<li><span class="dp">Fax: </span><span class="rp">+960 3338644</span></li>
 						<li><span class="dp">Email: </span><span class="rp">sales@oceanarenatravels.com</span></li>
@@ -77,7 +77,7 @@
 				<div class="ocean-address">
 					<h5>Sri Lanka Office:</h5>
 					<ul>
-						<li><span class="dp">Address: </span><span class="rp">54, Walukarama Road, Colombo-3, Sri Lanka.</span></li>
+						<li><span class="dp">Address: </span><span class="rp">54, Walukarama Road, Colombo 3, Sri Lanka.</span></li>
 						<li><span class="dp">Tel: </span><span class="rp">+9411 5484848</span></li>
 						<li><span class="dp">Email: </span><span class="rp">sales@oceanarenatravels.com</span></li>
 					</ul>

@@ -2,7 +2,7 @@
         <section class="header-about-section container-fluid">
             <div class="container">
                 <div class="col-md-offset-1 col-md-10 header-about text-center">
-                    <p class="wow fadeIn" data-wow-delay="300ms">Ocean Arena is the perception of a dream to uncover a genuine experiences and real insights into the places we travel that will leave you with stories worth telling for a lifetime. We believe travel is about more than a vacation. It’s about getting to know a country in all its glory, through meeting welcoming local people and seeing places through their eyes. We take you on a journey that you’ll experience with all your senses.</p>
+                    <p class="wow fadeIn" data-wow-delay="300ms">Ocean Arena is the perception of a dream to uncover genuine experiences and real insights into the places we travel that will leave you with stories worth telling for a lifetime. We believe travel is about more than a vacation. It’s about getting to know a country in all its glory, through meeting welcoming local people and seeing places through their eyes. We take you on a journey that you’ll experience with all your senses.</p>
                 </div>
             </div>
             

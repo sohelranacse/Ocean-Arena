@@ -17,10 +17,10 @@
 						Ocean Arena Travels is a newly branded travel company. Our passion for travel and the desire to create the perfect holiday experience is what differentiates us from our competitors, making our group the best travel agents in South Asia.
 					</p>
 					<p class="wow fadeIn" data-wow-delay="300ms">
-						Choosing the right travel agent can make all the difference to your business travel experience. Because Ocean Arena Travels is owner-operated, you are dealing directly with experienced people who understand the issues involved in running a business, and can, therefore, we aim to bring you comfortable, satisfactory and affordable vacation packages based on your requirements.
+						Choosing the right travel agent can make all the difference to your business travel experience. Because Ocean Arena Travels is owner-operated, you are dealing directly with experienced people who understand the issues involved in running a business, and we can, therefore, aim to bring you comfortable, satisfactory and affordable vacation packages based on your requirements.
 					</p>
 					<p class="wow fadeIn" data-wow-delay="300ms" style="margin-bottom: 20px">
-						Each of our specialist agents brings worldly knowledge and exceptional travel expertise to every consultation. From knowing when is the best time to travel to suggesting hidden gems and must-see activities, our travel agents offer unbiased advice on the best hotels, resorts, safaris and at the end takes you to the perfect holiday experiences ever.
+						Each of our specialist agents bring worldly knowledge and exceptional travel expertise to every consultation. From knowing when is the best time to travel to suggesting hidden gems and must-see activities. Our travel agents offer unbiased advice on the best hotels, resorts, safaris and at the end takes you to the perfect holiday experiences ever.
 					</p>
 					
 				</div>

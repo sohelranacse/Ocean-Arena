@@ -7,7 +7,7 @@
 	            <img src="<?php echo base_url(); ?>web_assets/img/divider-2.png" class="img-responsive" alt="Image">
 	        </span>
 	        <p class="wow fadeIn" data-wow-delay="500ms"">
-	        	Indulge a perfect holiday with the best available offers and highly personalized services.
+	        	Indulge in a perfect holiday with the best available offers and highly personalized services.
 	        </p>
 	    </div>
 	</div>
