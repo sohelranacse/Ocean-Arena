@@ -44,10 +44,6 @@
 							<span class="des">DURATION</span>
 							<span class="detail"><?php echo $data['duration']; ?></span>
 						</li>
-						<li>
-							<span class="des">AIRPORT</span>
-							<span class="detail"><?php echo $data['airport']; ?></span>
-						</li>
 					</ul>
 					<a href="<?php echo base_url() ?>home/details_information/2/1/<?php echo $data['id'].'/'.preg_replace('/[\s%_]/', '-', trim(strtolower($data['title']))) ?>" class="btn">MORE DETAILS</a>
 				</div>

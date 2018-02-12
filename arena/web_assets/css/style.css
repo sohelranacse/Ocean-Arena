@@ -274,7 +274,7 @@ header {
   background-image: url("../img/services-bg1.jpg");
   background-position: right top;
   background-repeat: no-repeat;
-  background-size: auto 100%;
+  background-size: 100% auto;
   padding-bottom: 75px;
 }
 .service-divider {

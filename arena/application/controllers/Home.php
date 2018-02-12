@@ -23,20 +23,20 @@ class Home extends CI_Controller {
 	}
 
 	public function contact(){
-		$data['title'] = 'Contact us || Ocean Arena';
+		$data['title'] = 'Contact - Ocean Arena Travels';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/contact-us',$data);
 		$this->load->view('web/footer');
 	}
 	public function about(){
-		$data['title'] = 'About us || Ocean Arena';
+		$data['title'] = 'About - Ocean Arena Travels';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/about-us',$data);
 		$this->load->view('web/footer');
 	}
 	
 	public function promotions(){
-		$data['title'] = 'Promotions || Ocean Arena';
+		$data['title'] = 'Promotions';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/promotions',$data);
 		$this->load->view('web/footer');
@@ -45,7 +45,7 @@ class Home extends CI_Controller {
 		$data['id'] = $id;
 		$data['offer_title'] = $title;
 
-		$data['title'] = 'Promotions offers || Ocean Arena';
+		$data['title'] = 'Offers';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/offers',$data);
 		$this->load->view('web/footer');
@@ -54,19 +54,19 @@ class Home extends CI_Controller {
 
 
 	public function maldives_about(){
-		$data['title'] = 'Maldives || Ocean Arena';
+		$data['title'] = 'About Maldives';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/maldives_about',$data);
 		$this->load->view('web/footer');
 	}
 	public function maldives_resorts(){
-		$data['title'] = 'Maldives Resorts || Ocean Arena';
+		$data['title'] = 'Maldives Resorts';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/maldives_resorts',$data);
 		$this->load->view('web/footer');
 	}
 	public function maldives_hotel(){
-		$data['title'] = 'Maldives Hotel || Ocean Arena';
+		$data['title'] = 'Maldives Hotels';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/maldives_hotel',$data);
 		$this->load->view('web/footer');
@@ -74,19 +74,19 @@ class Home extends CI_Controller {
 
 
 	public function srilanka_about(){
-		$data['title'] = 'Sri Lanka || Ocean Arena';
+		$data['title'] = 'About Sri Lanka';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/srilanka_about',$data);
 		$this->load->view('web/footer');
 	}
 	public function hotel_srilanka(){
-		$data['title'] = 'Sri Lanka Hotel || Ocean Arena';
+		$data['title'] = 'Sri Lanka Hotels';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/hotel-srilanka',$data);
 		$this->load->view('web/footer');
 	}
 	public function srilanka_packages(){
-		$data['title'] = 'Sri Lanka Packages || Ocean Arena';
+		$data['title'] = 'Sri Lanka Packages';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/srilanka_packages',$data);
 		$this->load->view('web/footer');
@@ -120,7 +120,7 @@ class Home extends CI_Controller {
                 $data['value'] = $this->db->get('details');
             }
 
-			$data['title'] = 'Details Information || Ocean Arena';
+			$data['title'] = 'Details';
 			$this->load->view('web/header',$data);
 			$this->load->view('web/details_information',$data);
 			$this->load->view('web/footer');
@@ -138,7 +138,7 @@ class Home extends CI_Controller {
 		$sent=mail($conTo,$subject,$description,$email);
 
         if(!$sent){
-            $msg = 'There are problems in sending mails  <br>';
+            $msg = 'There were problems in sending the mail. <br>';
         }else{
             $msg = 'Message sent successful.';
         }

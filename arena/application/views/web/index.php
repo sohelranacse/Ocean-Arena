@@ -77,7 +77,7 @@
             <div class="container-fluid padding0">
                 <div class="col-md-6 col-sm-6 col-xs-12 padding0">
                     <div class="promotions-image wow fadeIn" data-wow-delay="200ms">
-                        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/3saDwHisw8w?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/nvDzLnxcW20?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">

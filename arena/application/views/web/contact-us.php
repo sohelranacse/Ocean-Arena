@@ -8,7 +8,7 @@
 	            <img src="<?php echo base_url(); ?>web_assets/img/divider-2.png" class="img-responsive" alt="Image">
 	        </span>
             <p>
-                Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days. <br> We are open from 24/7 
+                Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days. <br> We are open from 24/7. 
             </p>
             <span class="span"></span>
             
