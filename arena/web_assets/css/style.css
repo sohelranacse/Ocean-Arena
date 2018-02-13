@@ -192,7 +192,7 @@ header {
 .mynav-list-drop > li > a {
   color: #6a172c;
   font-weight: normal;
-  text-align: right;
+  text-align: center;
   padding: 9px 20px;
   transition: 0.3s;
 }
@@ -250,26 +250,6 @@ header {
 
 /*## SERVICE STYLE CSS ##*/
 
-
-.arena-service-section {
-}
-/*
-.service-right-img {
-  background-attachment: local;
-  background-image: url("../img/services-bg-right.png");
-  background-position: right center;
-  background-repeat: no-repeat;
-  background-size: 35% auto;
-  padding-bottom: 20px;
-}
-.service-left-img{
-  background-attachment: local;
-  background-image: url("../img/services-bg-left.png");
-  background-position: left center;
-  background-repeat: no-repeat;
-  background-size: 35% auto;
-}
-*/
 .service-right {
   background-image: url("../img/services-bg1.jpg");
   background-position: right top;
@@ -1101,8 +1081,6 @@ header {
   padding: 40px 0;
   text-align: center;
 }
-
-
 .promotions-offers-header {
   padding: 20px 0;
 }
@@ -1333,8 +1311,6 @@ right: 15px !important;
 }
 
 /* DETAILS INFORMATION SECTION*/
-
-
 .details-section-left {
   text-align: justify;
 }
@@ -1353,8 +1329,6 @@ right: 15px !important;
 .details-section-right p{
   text-align: justify;
 }
-
-
 .de-se-ul {
   list-style: outside none none;
 }

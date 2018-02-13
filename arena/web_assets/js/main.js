@@ -1,5 +1,4 @@
 $(document).ready(function() {
-
   $("#partner").owlCarousel({
     autoPlay: 2000,
     items : 4,
@@ -8,11 +7,8 @@ $(document).ready(function() {
     stopOnHover:true,
     navigation : true,
     pagination : false,
-
     navigationText: [ '<span class="left-array"><img src="web_assets/img/icons/play-button-left.png" /></span>', '<span class="right-array"><img src="web_assets/img/icons/play-button.png" /></span>' ]
   });
-
-
 });
 
 $('nav ul li').click(function(){
@@ -24,3 +20,13 @@ $('nav ul li').click(function(){
         $('.dropdown-menu').slideUp();
     }    
 });
+$(document).ready(function() {        
+    $(window).load(function() {
+    preloaderFadeOutTime = 500;
+    function hidePreloader() {
+    var preloader = $('.spinner-wrapper');
+    preloader.fadeOut(preloaderFadeOutTime);
+    }
+    hidePreloader();
+    });
+}); //Preloader

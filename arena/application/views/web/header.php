@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="">
+<html class="no-js" lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -8,35 +8,31 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="<?php echo base_url(); ?>web_assets/site.webmanifest">
         <link rel="apple-touch-icon" href="<?php echo base_url(); ?>web_assets/img/favicon.png">
-        <link rel="shortcut icon" href="<?php echo base_url(); ?>web_assets/img/favicon.png">
-        <!-- Place favicon.ico in the root directory -->
+        <link rel="shortcut icon" href="<?php echo base_url(); ?>web_assets/img/favicon.png"><!-- Place favicon.ico in the root directory -->        
         <link href="<?php echo base_url(); ?>web_assets/css/bootstrap.min.css" rel="stylesheet"> <!-- BOOTSTRAP CSS -->
         <link href="<?php echo base_url(); ?>web_assets/css/style.css" rel="stylesheet"> <!-- CUSTOM CSS -->
         <script src="<?php echo base_url(); ?>web_assets/js/jquery.min.js"></script> <!-- JQUERY JS -->
         <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Nunito+Sans|Playfair+Display|Quicksand|Satisfy|Tangerine" rel="stylesheet">
         <link href="<?php echo base_url(); ?>web_assets/css/owl.carousel.css" rel="stylesheet"> <!-- OWLCAROUSAL SLIDER CSS -->
-        <link href="<?php echo base_url(); ?>web_assets/css/animate.css" rel="stylesheet"> <!-- NORMALIZE CSS -->
+        <link href="<?php echo base_url(); ?>web_assets/css/animate.css" rel="stylesheet"> <!-- ANIMATE CSS -->
         <link href="<?php echo base_url(); ?>web_assets/css/normalize.css" rel="stylesheet"> <!-- NORMALIZE CSS -->
         <link href="<?php echo base_url(); ?>web_assets/css/responsive.css" rel="stylesheet"> <!-- RESPONSIVE CSS -->
     </head>
-
-    <!--CSS Spinner-->
-    <div class="spinner-wrapper">
-    <div class="spinner">
-      <div class="bounce1"></div>
-      <div class="bounce2"></div>
-      <div class="bounce3"></div>
-    </div>
-    </div>
-
     <body>
         <!--[if lte IE 9]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
         <![endif]-->
+        <!--CSS Spinner-->
+        <div class="spinner-wrapper">
+            <div class="spinner">
+              <div class="bounce1"></div>
+              <div class="bounce2"></div>
+              <div class="bounce3"></div>
+            </div>
+        </div>
 
         <!-- HEADER SECTION START -->
         <header section="header container-fluid">
-
             <div class="container">
                 <div class="submenu">
                     <ul>
@@ -44,12 +40,9 @@
                         <li><a href="http://www.airport.lk/flight_info/arrival.php" target="_blank">&#10687; SRI LANKA FLIGHT SCHEDULE</a></li>
                     </ul>
                 </div>
-            </div>
-            
+            </div>            
             <nav class="hidden-xs navbar navbar-default" role="navigation">
                 <div class="container">
-                    
-                    
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -61,17 +54,14 @@
                         <a class="navbar-brand navbar-logo" href="<?php echo base_url(); ?>home">
                             <img src="<?php echo base_url(); ?>web_assets/img/logo-banner-arena.png" class="img-responsive" alt="logo">
                         </a>
-
-            
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse navbar-ex1-collapse mynav-list" style="width: 100%; z-index: 9999;">
-
                             <ul class="nav navbar-nav navbar-right">
                                 <li><a href="<?php echo base_url(); ?>home" class="<?php if($title=='Ocean Arena'){echo 'active-menu';} ?>">HOME</a></li>
-                                <li><a class="<?php if($title=='About us || Ocean Arena'){echo 'active-menu';} ?>" href="<?php echo base_url(); ?>home/about">ABOUT US</a></li>
+                                <li><a class="<?php if($title=='About - Ocean Arena Travels'){echo 'active-menu';} ?>" href="<?php echo base_url(); ?>home/about">ABOUT US</a></li>
 
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle <?php if($title=='Maldives || Ocean Arena' || $title=='Maldives Resorts || Ocean Arena' || $title=='Maldives Hotel || Ocean Arena'){echo 'active-menu';} ?>" data-toggle="dropdown">MALDIVES <b class="caret"></b></a>
+                                    <a href="#" class="dropdown-toggle <?php if($title=='About Maldives' || $title=='Maldives Resorts' || $title=='Maldives Hotels'){echo 'active-menu';} ?>" data-toggle="dropdown">MALDIVES <b class="caret"></b></a>
                                     <ul class="dropdown-menu mynav-list-drop">
                                         <li><a href="<?php echo base_url(); ?>home/maldives_about">ABOUT</a></li>
                                         <li><a href="<?php echo base_url(); ?>home/maldives_resorts">RESORTS</a></li>
@@ -79,23 +69,19 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle <?php if($title=='Sri Lanka || Ocean Arena' || $title=='Sri Lanka Hotel || Ocean Arena' || $title=='Sri Lanka Packages || Ocean Arena'){echo 'active-menu';} ?>" data-toggle="dropdown">SRI LANKA <b class="caret"></b></a>
+                                    <a href="#" class="dropdown-toggle <?php if($title=='About Sri Lanka' || $title=='Sri Lanka Hotels' || $title=='Sri Lanka Packages'){echo 'active-menu';} ?>" data-toggle="dropdown">SRI LANKA <b class="caret"></b></a>
                                     <ul class="dropdown-menu  mynav-list-drop sri-drop">
                                         <li><a href="<?php echo base_url(); ?>home/srilanka_about">ABOUT</a></li>
                                         <li><a href="<?php echo base_url(); ?>home/hotel_srilanka">HOTEL</a></li>
                                         <li><a href="<?php echo base_url(); ?>home/srilanka_packages">PACKAGES</a></li>
                                     </ul>
                                 </li>
-                                <li><a class="<?php if($title=='Contact us || Ocean Arena'){echo 'active-menu';} ?>" href="<?php echo base_url(); ?>home/contact">CONTACT</a></li>
+                                <li><a class="<?php if($title=='Contact - Ocean Arena Travels'){echo 'active-menu';} ?>" href="<?php echo base_url(); ?>home/contact">CONTACT</a></li>
                             </ul>
                         </div><!-- /.navbar-collapse -->
-
                     </div>
                 </div>
-
             </nav>
-
-
             <nav class="navbar navbar-default hidden-sm hidden-md hidden-lg" role="navigation">
                 <div class="container-fluid">
                     <!-- Brand and toggle get grouped for better mobile display -->
@@ -137,7 +123,5 @@
                     </div><!-- /.navbar-collapse -->
                 </div>
             </nav>
-
-
         </header>
         <!-- HEADER SECTION END -->

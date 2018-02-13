@@ -44,13 +44,11 @@ class Home extends CI_Controller {
 	public function offers($id, $title){
 		$data['id'] = $id;
 		$data['offer_title'] = $title;
-
 		$data['title'] = 'Offers';
 		$this->load->view('web/header',$data);
 		$this->load->view('web/offers',$data);
 		$this->load->view('web/footer');
 	}
-
 
 
 	public function maldives_about(){
@@ -142,8 +140,6 @@ class Home extends CI_Controller {
         }else{
             $msg = 'Message sent successful.';
         }
-
-
 		echo json_encode($msg);
 	}
 

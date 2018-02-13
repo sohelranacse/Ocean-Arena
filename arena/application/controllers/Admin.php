@@ -172,12 +172,9 @@ class Admin extends CI_Controller {
                 'offer_expiry' => $offer_expiry,
                 'valid_villas' => $valid_villas
             );
-            $this->db->insert('promotions',$insert);
-
-            
+            $this->db->insert('promotions',$insert);            
 
             $config['upload_path'] = './web_assets/img/promotions/';
-
             $config['allowed_types'] = 'jpg|jpeg|png|gif';
             $config['max_size'] = '200000';
             $config['max_width'] = '1524000';
@@ -202,9 +199,6 @@ class Admin extends CI_Controller {
             }
 
             redirect('admin/view_promotion');
-
-
-
         }
     }
 	public function add_resorts(){
@@ -233,8 +227,6 @@ class Admin extends CI_Controller {
             );
             $this->db->insert('resorts',$insert);
 
-            
-
             $config['upload_path'] = './web_assets/img/resorts/';
 
             $config['allowed_types'] = 'jpg|jpeg|png|gif';
@@ -262,9 +254,6 @@ class Admin extends CI_Controller {
             }
 
             redirect('admin/view_resorts');
-
-
-
         }
     }
     
@@ -327,9 +316,6 @@ class Admin extends CI_Controller {
             }
 
             redirect('admin/view_hotel');
-
-
-
         }
     }
     public function add_packages(){
@@ -381,9 +367,6 @@ class Admin extends CI_Controller {
             }
 
             redirect('admin/view_packages');
-
-
-
         }
     }
 
@@ -575,8 +558,6 @@ class Admin extends CI_Controller {
 
             redirect('admin/view_promotion');
 
-
-
         }
     }
     public function edit_package($id){
@@ -630,12 +611,6 @@ class Admin extends CI_Controller {
             }
             if ($_FILES['pfile_name']['name'] != '') {
 
-                /*$this->db->where('id',$pack_id);
-                $query = $this->db->get('packages');
-                $row = $query->row();
-                $file_name = $row->file_name;
-                unlink('./web_assets/img/packages/'.$file_name);*/
-
                 $config['upload_path'] = './web_assets/img/packages/';
                 $config['allowed_types'] = 'jpg|jpeg|png|gif|pdf';
 
@@ -652,9 +627,6 @@ class Admin extends CI_Controller {
             }
 
             redirect('admin/view_packages');
-
-
-
         }
     }
     public function edit_hotel($id){
@@ -725,9 +697,6 @@ class Admin extends CI_Controller {
             }
 
             redirect('admin/view_hotel');
-
-
-
         }
     }
     public function edit_resorts($id){
@@ -795,9 +764,65 @@ class Admin extends CI_Controller {
             }
 
             redirect('admin/view_resorts');
+        }
+    }
+    public function edit_accommodation($id){
+        $data['room_id'] = $id;
+        $data['title'] = 'Edit Accommodation';
+        $this->load->view('admin/header',$data);
+        $this->load->view('admin/edit_accommodation',$data);
+        $this->load->view('admin/footer');
+    }
+    public function update_accommodation(){
+        $this->load->helper(array('form','url'));
+        $this->load->library('form_validation');
 
+        $this->form_validation->set_rules('id','id','trim|required');
+        $this->form_validation->set_rules('details_id','details_id','trim|required');
 
+        $id = $this->input->post('id');
+        $details_id = $this->input->post('details_id');
+        $title = $this->input->post('title');
+        $description = $this->input->post('description');
 
+        if ($this->form_validation->run()==false) {
+            $this->productadded();
+        }else{
+
+            $update=array(
+                'title' => $title,
+                'description' => $description
+            );
+            $this->db->where('id',$id);
+            $this->db->where('details_id',$details_id);
+            $this->db->update('rooms',$update);
+            
+            if ($_FILES['userfile']['name'] != '') {
+
+                $this->db->where('id',$id);
+                $query = $this->db->get('rooms');
+                $row = $query->row();
+                $image = $row->userfile;
+                unlink('./web_assets/img/rooms/'.$image);
+                
+                $config['upload_path'] = './web_assets/img/rooms/';
+                $config['allowed_types'] = 'jpg|jpeg|png|gif';
+                $config['max_size'] = '200000';
+                $config['max_width'] = '1524000';
+                $config['max_height'] = '1000000';
+
+                $this->load->library('upload', $config);                        
+                $upload = $this->upload->do_upload('userfile');
+
+                if($upload == true){
+                    $update_img=array(
+                        'userfile' => $_FILES['userfile']['name']
+                    );
+                    $this->db->where('id',$id);
+                    $this->db->update('rooms',$update_img);
+                }
+            }
+            redirect("admin/edit_accommodation/$id");
         }
     }
 }

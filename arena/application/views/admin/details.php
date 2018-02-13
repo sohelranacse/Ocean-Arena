@@ -121,7 +121,7 @@
                   <th>Image</th>
                   <th>Title</th>
                   <th>Description</th>
-                  <th>Delete</th>
+                  <th colspan="2">Action</th>
                 </tr>
               </thead>
               <tbody>
@@ -135,7 +135,14 @@
                   <td><?php echo $rooms_data['id']; ?></td>
                   <td><img src="<?php echo base_url(); ?>web_assets/img/rooms/<?php echo $rooms_data['userfile']; ?>" style="height: 59px"></td>
                   <td><?php echo $rooms_data['title']; ?></td>
-                  <td><?php echo substr($rooms_data['description'], 0, 100); ?></td>
+                  <td><?php echo substr($rooms_data['description'], 0, 100); ?>...</td>
+                  <td class="taskOptions">
+                    <span id="edit">
+                      <a class="btn btn-primary btn-mini" data-original-title="Update" href="<?php echo base_url(); ?>admin/edit_accommodation/<?php echo $rooms_data['id'] ?>" target="_blank">
+                      <i class="icon-edit"></i>
+                      </a>
+                    </span>
+                  </td>
                   <td>
                     <button type="button" value="<?php echo $rooms_data['id'] ?>" onclick="delete_rooms(this)" class="btn btn-danger btn-mini" data-original-title="Delete">
                       <i class="icon-remove"></i>
