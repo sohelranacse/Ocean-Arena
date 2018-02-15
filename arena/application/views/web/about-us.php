@@ -11,43 +11,43 @@
 		</section>
 		<section class="about-section-2">
 			<div class="container">
-					<div class="col-md-6 col-sm-6">
+					<div class="col-md-6">
 						<div class="about-arena-left">
 							<p class="wow fadeIn" data-wow-delay="300ms">
-								Ocean Arena Travels is a newly branded travel company. Our passion for travel and the desire to create the perfect holiday experience is what differentiates us from our competitors, making our group the best travel agents in South Asia.
+								Ocean Arena Travels was established in Maldives in November 2017 (Reg No: C-1141/2017) by number of young &amp; enthusiastic travel experts. Ocean Arena Travels is all independent, owner-managed business and because of their thorough knowledge of the local travel industry, you will find that OAT consultant team fully understands you and your travel needs.
 							</p>
 							<p class="wow fadeIn" data-wow-delay="300ms">
-								Choosing the right travel agent can make all the difference to your business travel experience. Because Ocean Arena Travels is owner-operated, you are dealing directly with experienced people who understand the issues involved in running a business, and we can, therefore, aim to bring you comfortable, satisfactory and affordable vacation packages based on your requirements.
+								Our passion for travel and the desire to create the perfect holiday experience is what differentiates us from our competitors, making our group the best travel agents in South Asia. Choosing the right travel agent can make all the difference to your business travel experience. Because Ocean Arena Travels is owner-operated, you are dealing directly with experienced people who understand the issues involved in running a business, and can therefore, we aim to bring you comfortable, satisfactory and affordable vacation packages based on your requirements.
 							</p>
 							<p class="wow fadeIn" data-wow-delay="300ms" style="margin-bottom: 20px">
-								Each of our specialist agents bring worldly knowledge and exceptional travel expertise to every consultation. From knowing when is the best time to travel to suggesting hidden gems and must-see activities. Our travel agents offer unbiased advice on the best hotels, resorts, safaris and at the end takes you to the perfect holiday experiences ever.
+								Each of our specialist agents brings worldly knowledge and exceptional travel expertise to every consultation. From knowing when is the best time to travel, to suggesting hidden gems and must-see activities, our travel agents offer unbiased advice on the best hotels, resorts, safaris  and at the end taking you to the perfect holiday experiences ever.
 							</p>
 							
 						</div>
 					</div>
 
-					<div class="col-md-6 col-sm-6">
+					<div class="col-md-6">
 						<div class="about-arena-right wow fadeIn" data-wow-delay="300ms">
 							<div class="gallery">
 					            <div class="images wow fadeIn" data-wow-delay="300ms">
 					              <div class="image">
-					                <div class="content" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/1.jpg)"></div>
+					                <div class="content" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/71210344-H1-outrigger-konotta-maldives-resort-guest28.jpg)"></div>
 					              </div>
 					              <div class="image active">
-					                <div class="content" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/2.jpg)"></div>
+					                <div class="content" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/ANANTARA-KIHAVAH-VILLAS_Underwater-Wedding-Couple.jpg)"></div>
 					              </div>
 					              <div class="image">
-					                <div class="content" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/3.jpg)"></div>
+					                <div class="content" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/Conrad-Maldives_Seaplane-Lounge.jpg)"></div>
 					              </div>
 					              <div class="image">
-					                <div class="content" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/4.jpg)"></div>
+					                <div class="content" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/Hurawalhi-Seaplane.jpg)"></div>
 					              </div>
 					            </div>
 					            <div class="thumbs">
-					              <div class="thumb" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/1.jpg)"></div>
-					              <div class="thumb active" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/2.jpg)"></div>
-					              <div class="thumb" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/3.jpg)"></div>
-					              <div class="thumb" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/4.jpg)"></div>
+					              <div class="thumb" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/71210344-H1-outrigger-konotta-maldives-resort-guest28.jpg)"></div>
+					              <div class="thumb active" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/ANANTARA-KIHAVAH-VILLAS_Underwater-Wedding-Couple.jpg)"></div>
+					              <div class="thumb" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/Conrad-Maldives_Seaplane-Lounge.jpg)"></div>
+					              <div class="thumb" style="background-image: url(<?php echo base_url(); ?>web_assets/img/about/Hurawalhi-Seaplane.jpg)"></div>
 					            </div>
 					        </div>
 						</div>
@@ -63,11 +63,13 @@
 					
 					<ul>
 						<li>Experienced, professional travel agents</li>
-						<li>Holiday packages</li>
-						<li>Business travel and corporate travel services</li>
-						<li>24/7 Service</li>
+						<li>Leisure Travel</li>
+						<li>Corporate Travel</li>
+						<li>Executive Travel</li>
+						<li>Online Travel</li>
+						<li>Groups/Conference/Incentives/Events</li>
+						<li>4/7 Service</li>
 						<li>Private Transfer</li>
-						<li>Best Online Service</li>
 						<li>Competitive Rates</li>
 					</ul>
 				</div>
