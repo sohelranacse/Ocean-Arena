@@ -2,12 +2,13 @@
 		<section class="about-section">
 			<div class="container">
 				<div class="col-md-offset-1 col-md-10  top-header-page">
-					<h1 class="text-center wow fadeIn" data-wow-delay="300ms">SRI LANKA HOTELS COLLECTION</h1>
+					<h1 class="text-center wow fadeIn" data-wow-delay="300ms">Hotels in Sri Lanka</h1>
 					<span class="top-divider wow fadeIn" data-wow-delay="300ms">
 			            <img src="<?php echo base_url(); ?>web_assets/img/divider-2.png" class="img-responsive" alt="Image">
 			        </span>
 			        <p class="wow fadeIn" data-wow-delay="500ms">
-			        	Sprawling seaside retreats, romantic hideaways, cultural delights or old world indulgences; whichever holiday destination you seek, our distinctive hotels in Sri Lanka will offer you unmatched experiences to treasure. 
+			        	Sri Lanka has a growing tourism industry. Since gaining independence from the British in 1947, Sri Lanka has continued to attract foreign investors and tourists to the island. The country's important placement also enables it to attract transit visitors into the island. <br>
+			        	Over the years, many beautiful resorts, hotels and spas have opened. Incorporating the diverse culture of the country, the various Tourist Establishments here offer visitors a unique, yet memorable experience to remember with.
 			        </p>
 			    </div>
 			</div>

@@ -7,7 +7,7 @@
 			            <img src="<?php echo base_url(); ?>web_assets/img/divider-2.png" class="img-responsive" alt="Image">
 			        </span>
 			        <p class="wow fadeIn" data-wow-delay="500ms">
-			        	Immerse yourself in the pristine tropical islands of Maldives and experience the natural world in a luxurious resort.
+			        	The loudest thing you’ll hear is a palm tree swaying in the wind, warm waters lapping powdery sand, tiger prawns sizzling on a beach barbecue, or the pop of a champagne cork. This is the exclusive castaway life. Go island-hopping in seaplanes and catamarans, snorkelling with parrotfish by your private cabin or savour Creole fine dining on the beach. Immerse yourself in the pristine tropical islands of Maldives and experience the natural world in a luxurious resort.
 			        </p>
 			    </div>
 			</div>
