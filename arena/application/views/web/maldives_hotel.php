@@ -7,7 +7,8 @@
 			            <img src="<?php echo base_url(); ?>web_assets/img/divider-2.png" class="img-responsive" alt="Image">
 			        </span>
 			        <p class="wow fadeIn" data-wow-delay="500ms">
-			        	Sprawling seaside retreats, romantic hideaways, cultural delights or old world indulgences; whichever holiday destination you seek, our distinctive hotels in Sri Lanka will offer you unmatched experiences to treasure. 
+			        	Experience white-sandy paradise Maldives with unique city hotels chosen by our expert, including luxury hotels, boutique hotels, budget hotels. <br>
+			        	From City hotels, excursion trips are with something for everyone, nature-lover, culture-seeker, or sports enthusiast. Choose from the Dolphin Cruise, Island Hopping, Local Island, Night Fishing, Malé Visit, or Reef Snorkeling.
 			        </p>
 			    </div>
 			</div>
