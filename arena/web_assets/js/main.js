@@ -30,3 +30,24 @@ $(document).ready(function() {
     hidePreloader();
     });
 }); //Preloader
+function full_desc(value){
+
+    var id = $(value).val().trim();
+    var col = $(value).attr("cols");
+
+    if (col == 1) {
+        setTimeout(function(){
+            $('.javadesc'+id).css({
+                'height': 'auto'
+            });
+        },300);        
+        $('.moreD'+id).text("Hide");
+        $(value).attr("cols","2");
+    }else if(col == 2){
+        $('.javadesc'+id).css({
+            'height': '260px'
+        });
+        $('.moreD'+id).text("More details");
+        $(value).attr("cols","1");
+    }
+}

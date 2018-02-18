@@ -62,18 +62,19 @@
 					                if ($query->num_rows()>0) {
 					                  foreach ($query->result_array() as $rooms_data) {
 					                ?>
-									<div class="row" style="padding: 10px 15px">
+									<div class="row desc_custom">
 										<div class="col-md-6 col-sm-6">
 											<div class="maldives_about_visa_img_details">
 												<img src="<?php echo base_url(); ?>web_assets/img/rooms/<?php echo $rooms_data['userfile']; ?>" alt="accommodation image">
 								    		</div>
 										</div>
-										<div class="col-md-6 col-sm-6">
+										<div class="col-md-6 col-sm-6 room_desc javadesc<?php echo $rooms_data['id']; ?>">
 											<h5><?php echo $rooms_data['title']; ?></h5>
 											<p>
-												<?php echo $rooms_data['description']; ?>
+												<?php echo trim($rooms_data['description'], " "); ?>
 											</p>
 										</div>
+										<button class="btn btn-default btn-sm more-details-desc moreD<?php echo $rooms_data['id']; ?>" value="<?php echo $rooms_data['id']; ?>" cols="1" onclick="full_desc(this);">More details</button>
 									</div>
 									<?php }} ?>
 								</div>

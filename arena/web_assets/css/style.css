@@ -1467,3 +1467,22 @@ right: 15px !important;
   text-decoration: none;
   color: #fff;
 }
+
+.desc_custom {
+  display: block;
+  min-height: 350px;
+  overflow: hidden;
+  padding: 10px 15px;
+}
+.room_desc {
+  height: 260px;
+  overflow: hidden;
+}
+.more-details-desc {
+  margin-left: 15px;
+  margin-top: 25px;
+  float: right;
+}
+button{
+  outline: 0 none !important;
+}
