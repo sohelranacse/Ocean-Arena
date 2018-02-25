@@ -36,11 +36,9 @@ function full_desc(value){
     var col = $(value).attr("cols");
 
     if (col == 1) {
-        setTimeout(function(){
-            $('.javadesc'+id).css({
-                'height': 'auto'
-            });
-        },300);        
+        $('.javadesc'+id).css({
+            'height': 'auto'
+        });      
         $('.moreD'+id).text("Hide");
         $(value).attr("cols","2");
     }else if(col == 2){

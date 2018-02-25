@@ -18,12 +18,12 @@
                             </div>
                             <div class="ocean-grid2 wow fadeIn" data-wow-delay="500ms">
                                 <ul>
-                                    <li><a href="<?php echo base_url(); ?>home/maldives_about">ABOUT MALDIVES</a></li>
-                                    <li><a href="<?php echo base_url(); ?>home/maldives_resorts">MALDIVES RESORTS</a></li>
-                                    <li><a href="<?php echo base_url(); ?>home/maldives_hotel">MALDIVES HOTELS</a></li>
-                                    <li><a href="<?php echo base_url(); ?>home/srilanka_about">ABOUT SRI LANKA</a></li>
-                                    <li><a href="<?php echo base_url(); ?>home/hotel_srilanka">SRI LANKA HOTELS</a></li>
-                                    <li><a href="<?php echo base_url(); ?>home/srilanka_packages">SRI LANKA PACKAGES</a></li>
+                                    <li><a href="<?php echo base_url(); ?>home/maldives-about">ABOUT MALDIVES</a></li>
+                                    <li><a href="<?php echo base_url(); ?>home/maldives-resorts">MALDIVES RESORTS</a></li>
+                                    <li><a href="<?php echo base_url(); ?>home/maldives-hotel">MALDIVES HOTELS</a></li>
+                                    <li><a href="<?php echo base_url(); ?>home/srilanka-about">ABOUT SRI LANKA</a></li>
+                                    <li><a href="<?php echo base_url(); ?>home/hotel-srilanka">SRI LANKA HOTELS</a></li>
+                                    <li><a href="<?php echo base_url(); ?>home/srilanka-packages">SRI LANKA PACKAGES</a></li>
                                     <li><a href="<?php echo base_url(); ?>home/about">ABOUT US</a></li>
                                 </ul>
                             </div>
